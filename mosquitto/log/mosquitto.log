@@ -1115,3 +1115,15 @@ To fix this, use `chmod 0700 /mosquitto/config/passwd`.
 2026-10-27T20:03:07: New connection from 172.18.0.3:38746 on port 1883.
 2026-10-27T20:03:07: New client connected from 172.18.0.3:38746 as nodered81abd3a89ad13c2a (p4, c1, k60, u'admin').
 2026-10-27T20:14:40: Client nodered81abd3a89ad13c2a [172.18.0.3:38746] disconnected.
+2026-10-27T20:23:31: New connection from 172.18.0.3:48248 on port 1883.
+2026-10-27T20:23:31: New client connected from 172.18.0.3:48248 as nodered42373a2e77afc9bf (p4, c1, k60, u'admin').
+2026-10-27T20:23:49: Client nodered42373a2e77afc9bf [172.18.0.3:48248] disconnected.
+2026-10-27T20:23:49: New connection from 172.18.0.3:44526 on port 1883.
+2026-10-27T20:23:49: New client connected from 172.18.0.3:44526 as nodered629cd18ad7df9093 (p4, c1, k60, u'admin').
+2026-10-27T20:24:21: Client nodered629cd18ad7df9093 [172.18.0.3:44526] disconnected.
+2026-10-27T20:24:21: New connection from 172.18.0.3:47926 on port 1883.
+2026-10-27T20:24:21: New client connected from 172.18.0.3:47926 as noderedad1f958dbf847459 (p4, c1, k60, u'admin').
+2026-10-27T20:33:00: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-27T20:36:04: Client noderedad1f958dbf847459 [172.18.0.3:47926] disconnected.
+2026-10-27T20:36:04: New connection from 172.18.0.3:36772 on port 1883.
+2026-10-27T20:36:04: New client connected from 172.18.0.3:36772 as noderedbc2dd818b46ff9d6 (p4, c1, k60, u'admin').
