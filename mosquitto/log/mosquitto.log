@@ -1,0 +1,1117 @@
+2026-10-20T18:17:05: mosquitto version 2.1.2 starting
+2026-10-20T18:17:05: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:05: Bridge support available.
+2026-10-20T18:17:05: Persistence support available.
+2026-10-20T18:17:05: TLS support available.
+2026-10-20T18:17:05: TLS-PSK support available.
+2026-10-20T18:17:05: Websockets support available.
+2026-10-20T18:17:05: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:05: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:05: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:05: mosquitto version 2.1.2 starting
+2026-10-20T18:17:05: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:05: Bridge support available.
+2026-10-20T18:17:05: Persistence support available.
+2026-10-20T18:17:05: TLS support available.
+2026-10-20T18:17:05: TLS-PSK support available.
+2026-10-20T18:17:05: Websockets support available.
+2026-10-20T18:17:05: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:05: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:05: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:05: mosquitto version 2.1.2 starting
+2026-10-20T18:17:05: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:05: Bridge support available.
+2026-10-20T18:17:05: Persistence support available.
+2026-10-20T18:17:05: TLS support available.
+2026-10-20T18:17:05: TLS-PSK support available.
+2026-10-20T18:17:05: Websockets support available.
+2026-10-20T18:17:05: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:05: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:05: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:06: mosquitto version 2.1.2 starting
+2026-10-20T18:17:06: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:06: Bridge support available.
+2026-10-20T18:17:06: Persistence support available.
+2026-10-20T18:17:06: TLS support available.
+2026-10-20T18:17:06: TLS-PSK support available.
+2026-10-20T18:17:06: Websockets support available.
+2026-10-20T18:17:06: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:06: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:06: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:07: mosquitto version 2.1.2 starting
+2026-10-20T18:17:07: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:07: Bridge support available.
+2026-10-20T18:17:07: Persistence support available.
+2026-10-20T18:17:07: TLS support available.
+2026-10-20T18:17:07: TLS-PSK support available.
+2026-10-20T18:17:07: Websockets support available.
+2026-10-20T18:17:07: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:07: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:07: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:09: mosquitto version 2.1.2 starting
+2026-10-20T18:17:09: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:09: Bridge support available.
+2026-10-20T18:17:09: Persistence support available.
+2026-10-20T18:17:09: TLS support available.
+2026-10-20T18:17:09: TLS-PSK support available.
+2026-10-20T18:17:09: Websockets support available.
+2026-10-20T18:17:09: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:09: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:09: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:12: mosquitto version 2.1.2 starting
+2026-10-20T18:17:12: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:12: Bridge support available.
+2026-10-20T18:17:12: Persistence support available.
+2026-10-20T18:17:12: TLS support available.
+2026-10-20T18:17:12: TLS-PSK support available.
+2026-10-20T18:17:12: Websockets support available.
+2026-10-20T18:17:12: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:12: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:12: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:19: mosquitto version 2.1.2 starting
+2026-10-20T18:17:19: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:19: Bridge support available.
+2026-10-20T18:17:19: Persistence support available.
+2026-10-20T18:17:19: TLS support available.
+2026-10-20T18:17:19: TLS-PSK support available.
+2026-10-20T18:17:19: Websockets support available.
+2026-10-20T18:17:19: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:19: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:19: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:32: mosquitto version 2.1.2 starting
+2026-10-20T18:17:32: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:32: Bridge support available.
+2026-10-20T18:17:32: Persistence support available.
+2026-10-20T18:17:32: TLS support available.
+2026-10-20T18:17:32: TLS-PSK support available.
+2026-10-20T18:17:32: Websockets support available.
+2026-10-20T18:17:32: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:32: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:32: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:17:57: mosquitto version 2.1.2 starting
+2026-10-20T18:17:57: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:17:57: Bridge support available.
+2026-10-20T18:17:57: Persistence support available.
+2026-10-20T18:17:57: TLS support available.
+2026-10-20T18:17:57: TLS-PSK support available.
+2026-10-20T18:17:57: Websockets support available.
+2026-10-20T18:17:57: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:17:57: mosquitto version 2.1.2 terminating
+2026-10-20T18:17:57: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:18:49: mosquitto version 2.1.2 starting
+2026-10-20T18:18:49: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:18:49: Bridge support available.
+2026-10-20T18:18:49: Persistence support available.
+2026-10-20T18:18:49: TLS support available.
+2026-10-20T18:18:49: TLS-PSK support available.
+2026-10-20T18:18:49: Websockets support available.
+2026-10-20T18:18:49: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:18:49: mosquitto version 2.1.2 terminating
+2026-10-20T18:18:49: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:19:49: mosquitto version 2.1.2 starting
+2026-10-20T18:19:49: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:19:49: Bridge support available.
+2026-10-20T18:19:49: Persistence support available.
+2026-10-20T18:19:49: TLS support available.
+2026-10-20T18:19:49: TLS-PSK support available.
+2026-10-20T18:19:49: Websockets support available.
+2026-10-20T18:19:49: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:19:49: mosquitto version 2.1.2 terminating
+2026-10-20T18:19:49: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:20:49: mosquitto version 2.1.2 starting
+2026-10-20T18:20:49: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:20:49: Bridge support available.
+2026-10-20T18:20:49: Persistence support available.
+2026-10-20T18:20:49: TLS support available.
+2026-10-20T18:20:49: TLS-PSK support available.
+2026-10-20T18:20:49: Websockets support available.
+2026-10-20T18:20:49: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:20:49: mosquitto version 2.1.2 terminating
+2026-10-20T18:20:49: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:21:49: mosquitto version 2.1.2 starting
+2026-10-20T18:21:49: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:21:49: Bridge support available.
+2026-10-20T18:21:49: Persistence support available.
+2026-10-20T18:21:49: TLS support available.
+2026-10-20T18:21:49: TLS-PSK support available.
+2026-10-20T18:21:49: Websockets support available.
+2026-10-20T18:21:49: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:21:49: mosquitto version 2.1.2 terminating
+2026-10-20T18:21:49: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:22:50: mosquitto version 2.1.2 starting
+2026-10-20T18:22:50: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:22:50: Bridge support available.
+2026-10-20T18:22:50: Persistence support available.
+2026-10-20T18:22:50: TLS support available.
+2026-10-20T18:22:50: TLS-PSK support available.
+2026-10-20T18:22:50: Websockets support available.
+2026-10-20T18:22:50: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:22:50: mosquitto version 2.1.2 terminating
+2026-10-20T18:22:50: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:23:50: mosquitto version 2.1.2 starting
+2026-10-20T18:23:50: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:23:50: Bridge support available.
+2026-10-20T18:23:50: Persistence support available.
+2026-10-20T18:23:50: TLS support available.
+2026-10-20T18:23:50: TLS-PSK support available.
+2026-10-20T18:23:50: Websockets support available.
+2026-10-20T18:23:50: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:23:50: mosquitto version 2.1.2 terminating
+2026-10-20T18:23:50: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:24:50: mosquitto version 2.1.2 starting
+2026-10-20T18:24:50: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:24:50: Bridge support available.
+2026-10-20T18:24:50: Persistence support available.
+2026-10-20T18:24:50: TLS support available.
+2026-10-20T18:24:50: TLS-PSK support available.
+2026-10-20T18:24:50: Websockets support available.
+2026-10-20T18:24:50: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:24:50: mosquitto version 2.1.2 terminating
+2026-10-20T18:24:50: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:26:22: mosquitto version 2.1.2 starting
+2026-10-20T18:26:22: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:26:22: Bridge support available.
+2026-10-20T18:26:22: Persistence support available.
+2026-10-20T18:26:22: TLS support available.
+2026-10-20T18:26:22: TLS-PSK support available.
+2026-10-20T18:26:22: Websockets support available.
+2026-10-20T18:26:22: Opening ipv4 listen socket on port 1883.
+2026-10-20T18:26:22: Opening ipv6 listen socket on port 1883.
+2026-10-20T18:26:22: mosquitto version 2.1.2 running
+2026-10-20T18:26:46: New connection from 172.18.0.1:36076 on port 1883.
+2026-10-20T18:26:46: New client connected from 172.18.0.1:36076 as mqtt-explorer-379f71f2 (p4, c1, k60).
+2026-10-20T18:31:08: New connection from ::1:51926 on port 1883.
+2026-10-20T18:31:08: New client connected from ::1:51926 as auto-E547B4C2-5BED-61EB-E467-1158055E972F (p4, c1, k60).
+2026-10-20T18:31:08: Client auto-E547B4C2-5BED-61EB-E467-1158055E972F [::1:51926] disconnected.
+2026-10-20T18:31:49: New connection from ::1:44272 on port 1883.
+2026-10-20T18:31:49: New client connected from ::1:44272 as auto-04822148-8676-AD0B-3C21-37EBC4BF5956 (p4, c1, k60).
+2026-10-20T18:31:49: Client auto-04822148-8676-AD0B-3C21-37EBC4BF5956 [::1:44272] disconnected.
+2026-10-20T18:39:24: mosquitto version 2.1.2 terminating
+2026-10-20T18:39:24: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:39:58: mosquitto version 2.1.2 starting
+2026-10-20T18:39:58: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:39:58: Bridge support available.
+2026-10-20T18:39:58: Persistence support available.
+2026-10-20T18:39:58: TLS support available.
+2026-10-20T18:39:58: TLS-PSK support available.
+2026-10-20T18:39:58: Websockets support available.
+2026-10-20T18:39:58: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:39:58: mosquitto version 2.1.2 terminating
+2026-10-20T18:39:58: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:39:58: mosquitto version 2.1.2 starting
+2026-10-20T18:39:58: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:39:58: Bridge support available.
+2026-10-20T18:39:58: Persistence support available.
+2026-10-20T18:39:58: TLS support available.
+2026-10-20T18:39:58: TLS-PSK support available.
+2026-10-20T18:39:58: Websockets support available.
+2026-10-20T18:39:58: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:39:58: mosquitto version 2.1.2 terminating
+2026-10-20T18:39:58: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:39:58: mosquitto version 2.1.2 starting
+2026-10-20T18:39:58: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:39:58: Bridge support available.
+2026-10-20T18:39:58: Persistence support available.
+2026-10-20T18:39:58: TLS support available.
+2026-10-20T18:39:58: TLS-PSK support available.
+2026-10-20T18:39:58: Websockets support available.
+2026-10-20T18:39:58: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:39:58: mosquitto version 2.1.2 terminating
+2026-10-20T18:39:58: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:39:59: mosquitto version 2.1.2 starting
+2026-10-20T18:39:59: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:39:59: Bridge support available.
+2026-10-20T18:39:59: Persistence support available.
+2026-10-20T18:39:59: TLS support available.
+2026-10-20T18:39:59: TLS-PSK support available.
+2026-10-20T18:39:59: Websockets support available.
+2026-10-20T18:39:59: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:39:59: mosquitto version 2.1.2 terminating
+2026-10-20T18:39:59: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:40:00: mosquitto version 2.1.2 starting
+2026-10-20T18:40:00: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:40:00: Bridge support available.
+2026-10-20T18:40:00: Persistence support available.
+2026-10-20T18:40:00: TLS support available.
+2026-10-20T18:40:00: TLS-PSK support available.
+2026-10-20T18:40:00: Websockets support available.
+2026-10-20T18:40:00: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:40:00: mosquitto version 2.1.2 terminating
+2026-10-20T18:40:00: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:40:02: mosquitto version 2.1.2 starting
+2026-10-20T18:40:02: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:40:02: Bridge support available.
+2026-10-20T18:40:02: Persistence support available.
+2026-10-20T18:40:02: TLS support available.
+2026-10-20T18:40:02: TLS-PSK support available.
+2026-10-20T18:40:02: Websockets support available.
+2026-10-20T18:40:02: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:40:02: mosquitto version 2.1.2 terminating
+2026-10-20T18:40:02: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:40:05: mosquitto version 2.1.2 starting
+2026-10-20T18:40:05: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:40:05: Bridge support available.
+2026-10-20T18:40:05: Persistence support available.
+2026-10-20T18:40:05: TLS support available.
+2026-10-20T18:40:05: TLS-PSK support available.
+2026-10-20T18:40:05: Websockets support available.
+2026-10-20T18:40:05: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:40:05: mosquitto version 2.1.2 terminating
+2026-10-20T18:40:05: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:40:12: mosquitto version 2.1.2 starting
+2026-10-20T18:40:12: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:40:12: Bridge support available.
+2026-10-20T18:40:12: Persistence support available.
+2026-10-20T18:40:12: TLS support available.
+2026-10-20T18:40:12: TLS-PSK support available.
+2026-10-20T18:40:12: Websockets support available.
+2026-10-20T18:40:12: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:40:12: mosquitto version 2.1.2 terminating
+2026-10-20T18:40:12: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:40:25: mosquitto version 2.1.2 starting
+2026-10-20T18:40:25: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:40:25: Bridge support available.
+2026-10-20T18:40:25: Persistence support available.
+2026-10-20T18:40:25: TLS support available.
+2026-10-20T18:40:25: TLS-PSK support available.
+2026-10-20T18:40:25: Websockets support available.
+2026-10-20T18:40:25: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:40:25: mosquitto version 2.1.2 terminating
+2026-10-20T18:40:25: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:40:50: mosquitto version 2.1.2 starting
+2026-10-20T18:40:50: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:40:50: Bridge support available.
+2026-10-20T18:40:50: Persistence support available.
+2026-10-20T18:40:50: TLS support available.
+2026-10-20T18:40:50: TLS-PSK support available.
+2026-10-20T18:40:50: Websockets support available.
+2026-10-20T18:40:50: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:40:50: mosquitto version 2.1.2 terminating
+2026-10-20T18:40:50: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:41:42: mosquitto version 2.1.2 starting
+2026-10-20T18:41:42: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:41:42: Bridge support available.
+2026-10-20T18:41:42: Persistence support available.
+2026-10-20T18:41:42: TLS support available.
+2026-10-20T18:41:42: TLS-PSK support available.
+2026-10-20T18:41:42: Websockets support available.
+2026-10-20T18:41:42: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:41:42: mosquitto version 2.1.2 terminating
+2026-10-20T18:41:42: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:41:52: mosquitto version 2.1.2 starting
+2026-10-20T18:41:52: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:41:52: Bridge support available.
+2026-10-20T18:41:52: Persistence support available.
+2026-10-20T18:41:52: TLS support available.
+2026-10-20T18:41:52: TLS-PSK support available.
+2026-10-20T18:41:52: Websockets support available.
+2026-10-20T18:41:52: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:41:52: mosquitto version 2.1.2 terminating
+2026-10-20T18:41:52: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:41:52: mosquitto version 2.1.2 starting
+2026-10-20T18:41:52: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:41:52: Bridge support available.
+2026-10-20T18:41:52: Persistence support available.
+2026-10-20T18:41:52: TLS support available.
+2026-10-20T18:41:52: TLS-PSK support available.
+2026-10-20T18:41:52: Websockets support available.
+2026-10-20T18:41:52: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:41:52: mosquitto version 2.1.2 terminating
+2026-10-20T18:41:52: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:41:53: mosquitto version 2.1.2 starting
+2026-10-20T18:41:53: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:41:53: Bridge support available.
+2026-10-20T18:41:53: Persistence support available.
+2026-10-20T18:41:53: TLS support available.
+2026-10-20T18:41:53: TLS-PSK support available.
+2026-10-20T18:41:53: Websockets support available.
+2026-10-20T18:41:53: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:41:53: mosquitto version 2.1.2 terminating
+2026-10-20T18:41:53: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:41:53: mosquitto version 2.1.2 starting
+2026-10-20T18:41:53: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:41:53: Bridge support available.
+2026-10-20T18:41:53: Persistence support available.
+2026-10-20T18:41:53: TLS support available.
+2026-10-20T18:41:53: TLS-PSK support available.
+2026-10-20T18:41:53: Websockets support available.
+2026-10-20T18:41:53: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:41:53: mosquitto version 2.1.2 terminating
+2026-10-20T18:41:53: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:41:54: mosquitto version 2.1.2 starting
+2026-10-20T18:41:54: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:41:54: Bridge support available.
+2026-10-20T18:41:54: Persistence support available.
+2026-10-20T18:41:54: TLS support available.
+2026-10-20T18:41:54: TLS-PSK support available.
+2026-10-20T18:41:54: Websockets support available.
+2026-10-20T18:41:54: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:41:54: mosquitto version 2.1.2 terminating
+2026-10-20T18:41:54: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:41:56: mosquitto version 2.1.2 starting
+2026-10-20T18:41:56: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:41:56: Bridge support available.
+2026-10-20T18:41:56: Persistence support available.
+2026-10-20T18:41:56: TLS support available.
+2026-10-20T18:41:56: TLS-PSK support available.
+2026-10-20T18:41:56: Websockets support available.
+2026-10-20T18:41:56: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:41:56: mosquitto version 2.1.2 terminating
+2026-10-20T18:41:56: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:41:59: mosquitto version 2.1.2 starting
+2026-10-20T18:41:59: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:41:59: Bridge support available.
+2026-10-20T18:41:59: Persistence support available.
+2026-10-20T18:41:59: TLS support available.
+2026-10-20T18:41:59: TLS-PSK support available.
+2026-10-20T18:41:59: Websockets support available.
+2026-10-20T18:41:59: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:41:59: mosquitto version 2.1.2 terminating
+2026-10-20T18:41:59: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:42:06: mosquitto version 2.1.2 starting
+2026-10-20T18:42:06: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:42:06: Bridge support available.
+2026-10-20T18:42:06: Persistence support available.
+2026-10-20T18:42:06: TLS support available.
+2026-10-20T18:42:06: TLS-PSK support available.
+2026-10-20T18:42:06: Websockets support available.
+2026-10-20T18:42:06: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:42:06: mosquitto version 2.1.2 terminating
+2026-10-20T18:42:06: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:42:19: mosquitto version 2.1.2 starting
+2026-10-20T18:42:19: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:42:19: Bridge support available.
+2026-10-20T18:42:19: Persistence support available.
+2026-10-20T18:42:19: TLS support available.
+2026-10-20T18:42:19: TLS-PSK support available.
+2026-10-20T18:42:19: Websockets support available.
+2026-10-20T18:42:19: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:42:19: mosquitto version 2.1.2 terminating
+2026-10-20T18:42:19: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:42:45: mosquitto version 2.1.2 starting
+2026-10-20T18:42:45: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:42:45: Bridge support available.
+2026-10-20T18:42:45: Persistence support available.
+2026-10-20T18:42:45: TLS support available.
+2026-10-20T18:42:45: TLS-PSK support available.
+2026-10-20T18:42:45: Websockets support available.
+2026-10-20T18:42:45: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:42:45: mosquitto version 2.1.2 terminating
+2026-10-20T18:42:45: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:43:36: mosquitto version 2.1.2 starting
+2026-10-20T18:43:36: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:43:36: Bridge support available.
+2026-10-20T18:43:36: Persistence support available.
+2026-10-20T18:43:36: TLS support available.
+2026-10-20T18:43:36: TLS-PSK support available.
+2026-10-20T18:43:36: Websockets support available.
+2026-10-20T18:43:36: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:43:36: mosquitto version 2.1.2 terminating
+2026-10-20T18:43:36: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:43:56: mosquitto version 2.1.2 starting
+2026-10-20T18:43:56: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:43:56: Bridge support available.
+2026-10-20T18:43:56: Persistence support available.
+2026-10-20T18:43:56: TLS support available.
+2026-10-20T18:43:56: TLS-PSK support available.
+2026-10-20T18:43:56: Websockets support available.
+2026-10-20T18:43:56: password-file: Error: Unable to open pwfile "mosquitto/config/passwd".
+2026-10-20T18:43:56: mosquitto version 2.1.2 terminating
+2026-10-20T18:43:56: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:43:56: mosquitto version 2.1.2 starting
+2026-10-20T18:43:56: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:43:56: Bridge support available.
+2026-10-20T18:43:56: Persistence support available.
+2026-10-20T18:43:56: TLS support available.
+2026-10-20T18:43:56: TLS-PSK support available.
+2026-10-20T18:43:56: Websockets support available.
+2026-10-20T18:43:56: password-file: Error: Unable to open pwfile "mosquitto/config/passwd".
+2026-10-20T18:43:56: mosquitto version 2.1.2 terminating
+2026-10-20T18:43:56: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:43:56: mosquitto version 2.1.2 starting
+2026-10-20T18:43:56: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:43:56: Bridge support available.
+2026-10-20T18:43:56: Persistence support available.
+2026-10-20T18:43:56: TLS support available.
+2026-10-20T18:43:56: TLS-PSK support available.
+2026-10-20T18:43:56: Websockets support available.
+2026-10-20T18:43:56: password-file: Error: Unable to open pwfile "mosquitto/config/passwd".
+2026-10-20T18:43:56: mosquitto version 2.1.2 terminating
+2026-10-20T18:43:56: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:43:57: mosquitto version 2.1.2 starting
+2026-10-20T18:43:57: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:43:57: Bridge support available.
+2026-10-20T18:43:57: Persistence support available.
+2026-10-20T18:43:57: TLS support available.
+2026-10-20T18:43:57: TLS-PSK support available.
+2026-10-20T18:43:57: Websockets support available.
+2026-10-20T18:43:57: password-file: Error: Unable to open pwfile "mosquitto/config/passwd".
+2026-10-20T18:43:57: mosquitto version 2.1.2 terminating
+2026-10-20T18:43:57: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:43:58: mosquitto version 2.1.2 starting
+2026-10-20T18:43:58: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:43:58: Bridge support available.
+2026-10-20T18:43:58: Persistence support available.
+2026-10-20T18:43:58: TLS support available.
+2026-10-20T18:43:58: TLS-PSK support available.
+2026-10-20T18:43:58: Websockets support available.
+2026-10-20T18:43:58: password-file: Error: Unable to open pwfile "mosquitto/config/passwd".
+2026-10-20T18:43:58: mosquitto version 2.1.2 terminating
+2026-10-20T18:43:58: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:44:00: mosquitto version 2.1.2 starting
+2026-10-20T18:44:00: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:44:00: Bridge support available.
+2026-10-20T18:44:00: Persistence support available.
+2026-10-20T18:44:00: TLS support available.
+2026-10-20T18:44:00: TLS-PSK support available.
+2026-10-20T18:44:00: Websockets support available.
+2026-10-20T18:44:00: password-file: Error: Unable to open pwfile "mosquitto/config/passwd".
+2026-10-20T18:44:00: mosquitto version 2.1.2 terminating
+2026-10-20T18:44:00: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:44:03: mosquitto version 2.1.2 starting
+2026-10-20T18:44:03: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:44:03: Bridge support available.
+2026-10-20T18:44:03: Persistence support available.
+2026-10-20T18:44:03: TLS support available.
+2026-10-20T18:44:03: TLS-PSK support available.
+2026-10-20T18:44:03: Websockets support available.
+2026-10-20T18:44:03: password-file: Error: Unable to open pwfile "mosquitto/config/passwd".
+2026-10-20T18:44:03: mosquitto version 2.1.2 terminating
+2026-10-20T18:44:03: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:44:10: mosquitto version 2.1.2 starting
+2026-10-20T18:44:10: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:44:10: Bridge support available.
+2026-10-20T18:44:10: Persistence support available.
+2026-10-20T18:44:10: TLS support available.
+2026-10-20T18:44:10: TLS-PSK support available.
+2026-10-20T18:44:10: Websockets support available.
+2026-10-20T18:44:10: password-file: Error: Unable to open pwfile "mosquitto/config/passwd".
+2026-10-20T18:44:10: mosquitto version 2.1.2 terminating
+2026-10-20T18:44:10: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:44:49: mosquitto version 2.1.2 starting
+2026-10-20T18:44:49: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:44:49: Bridge support available.
+2026-10-20T18:44:49: Persistence support available.
+2026-10-20T18:44:49: TLS support available.
+2026-10-20T18:44:49: TLS-PSK support available.
+2026-10-20T18:44:49: Websockets support available.
+2026-10-20T18:44:49: Opening ipv4 listen socket on port 1883.
+2026-10-20T18:44:49: Opening ipv6 listen socket on port 1883.
+2026-10-20T18:44:49: mosquitto version 2.1.2 running
+2026-10-20T18:46:10: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:10: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:13: mosquitto version 2.1.2 starting
+2026-10-20T18:46:13: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:13: Bridge support available.
+2026-10-20T18:46:13: Persistence support available.
+2026-10-20T18:46:13: TLS support available.
+2026-10-20T18:46:13: TLS-PSK support available.
+2026-10-20T18:46:13: Websockets support available.
+2026-10-20T18:46:13: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:13: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:13: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:13: mosquitto version 2.1.2 starting
+2026-10-20T18:46:13: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:13: Bridge support available.
+2026-10-20T18:46:13: Persistence support available.
+2026-10-20T18:46:13: TLS support available.
+2026-10-20T18:46:13: TLS-PSK support available.
+2026-10-20T18:46:13: Websockets support available.
+2026-10-20T18:46:13: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:13: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:13: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:13: mosquitto version 2.1.2 starting
+2026-10-20T18:46:13: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:13: Bridge support available.
+2026-10-20T18:46:13: Persistence support available.
+2026-10-20T18:46:13: TLS support available.
+2026-10-20T18:46:13: TLS-PSK support available.
+2026-10-20T18:46:13: Websockets support available.
+2026-10-20T18:46:13: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:13: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:13: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:14: mosquitto version 2.1.2 starting
+2026-10-20T18:46:14: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:14: Bridge support available.
+2026-10-20T18:46:14: Persistence support available.
+2026-10-20T18:46:14: TLS support available.
+2026-10-20T18:46:14: TLS-PSK support available.
+2026-10-20T18:46:14: Websockets support available.
+2026-10-20T18:46:14: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:14: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:14: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:15: mosquitto version 2.1.2 starting
+2026-10-20T18:46:15: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:15: Bridge support available.
+2026-10-20T18:46:15: Persistence support available.
+2026-10-20T18:46:15: TLS support available.
+2026-10-20T18:46:15: TLS-PSK support available.
+2026-10-20T18:46:15: Websockets support available.
+2026-10-20T18:46:15: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:15: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:15: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:17: mosquitto version 2.1.2 starting
+2026-10-20T18:46:17: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:17: Bridge support available.
+2026-10-20T18:46:17: Persistence support available.
+2026-10-20T18:46:17: TLS support available.
+2026-10-20T18:46:17: TLS-PSK support available.
+2026-10-20T18:46:17: Websockets support available.
+2026-10-20T18:46:17: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:17: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:17: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:20: mosquitto version 2.1.2 starting
+2026-10-20T18:46:20: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:20: Bridge support available.
+2026-10-20T18:46:20: Persistence support available.
+2026-10-20T18:46:20: TLS support available.
+2026-10-20T18:46:20: TLS-PSK support available.
+2026-10-20T18:46:20: Websockets support available.
+2026-10-20T18:46:20: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:20: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:20: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:27: mosquitto version 2.1.2 starting
+2026-10-20T18:46:27: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:27: Bridge support available.
+2026-10-20T18:46:27: Persistence support available.
+2026-10-20T18:46:27: TLS support available.
+2026-10-20T18:46:27: TLS-PSK support available.
+2026-10-20T18:46:27: Websockets support available.
+2026-10-20T18:46:27: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:27: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:27: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:46:40: mosquitto version 2.1.2 starting
+2026-10-20T18:46:40: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:46:40: Bridge support available.
+2026-10-20T18:46:40: Persistence support available.
+2026-10-20T18:46:40: TLS support available.
+2026-10-20T18:46:40: TLS-PSK support available.
+2026-10-20T18:46:40: Websockets support available.
+2026-10-20T18:46:40: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:46:40: mosquitto version 2.1.2 terminating
+2026-10-20T18:46:40: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:47:57: mosquitto version 2.1.2 starting
+2026-10-20T18:47:57: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:47:57: Bridge support available.
+2026-10-20T18:47:57: Persistence support available.
+2026-10-20T18:47:57: TLS support available.
+2026-10-20T18:47:57: TLS-PSK support available.
+2026-10-20T18:47:57: Websockets support available.
+2026-10-20T18:47:57: Opening ipv4 listen socket on port 1883.
+2026-10-20T18:47:57: Opening ipv6 listen socket on port 1883.
+2026-10-20T18:47:57: mosquitto version 2.1.2 running
+2026-10-20T18:49:09: New connection from 172.18.0.1:36656 on port 1883.
+2026-10-20T18:49:09: New client connected from 172.18.0.1:36656 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-20T18:50:06: Client mqtt-explorer-379f71f2 [172.18.0.1:36656] disconnected.
+2026-10-20T18:50:10: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:10: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:18: mosquitto version 2.1.2 starting
+2026-10-20T18:50:18: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:18: Bridge support available.
+2026-10-20T18:50:18: Persistence support available.
+2026-10-20T18:50:18: TLS support available.
+2026-10-20T18:50:18: TLS-PSK support available.
+2026-10-20T18:50:18: Websockets support available.
+2026-10-20T18:50:18: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:18: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:18: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:19: mosquitto version 2.1.2 starting
+2026-10-20T18:50:19: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:19: Bridge support available.
+2026-10-20T18:50:19: Persistence support available.
+2026-10-20T18:50:19: TLS support available.
+2026-10-20T18:50:19: TLS-PSK support available.
+2026-10-20T18:50:19: Websockets support available.
+2026-10-20T18:50:19: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:19: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:19: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:19: mosquitto version 2.1.2 starting
+2026-10-20T18:50:19: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:19: Bridge support available.
+2026-10-20T18:50:19: Persistence support available.
+2026-10-20T18:50:19: TLS support available.
+2026-10-20T18:50:19: TLS-PSK support available.
+2026-10-20T18:50:19: Websockets support available.
+2026-10-20T18:50:19: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:19: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:19: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:20: mosquitto version 2.1.2 starting
+2026-10-20T18:50:20: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:20: Bridge support available.
+2026-10-20T18:50:20: Persistence support available.
+2026-10-20T18:50:20: TLS support available.
+2026-10-20T18:50:20: TLS-PSK support available.
+2026-10-20T18:50:20: Websockets support available.
+2026-10-20T18:50:20: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:20: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:20: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:21: mosquitto version 2.1.2 starting
+2026-10-20T18:50:21: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:21: Bridge support available.
+2026-10-20T18:50:21: Persistence support available.
+2026-10-20T18:50:21: TLS support available.
+2026-10-20T18:50:21: TLS-PSK support available.
+2026-10-20T18:50:21: Websockets support available.
+2026-10-20T18:50:21: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:21: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:21: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:23: mosquitto version 2.1.2 starting
+2026-10-20T18:50:23: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:23: Bridge support available.
+2026-10-20T18:50:23: Persistence support available.
+2026-10-20T18:50:23: TLS support available.
+2026-10-20T18:50:23: TLS-PSK support available.
+2026-10-20T18:50:23: Websockets support available.
+2026-10-20T18:50:23: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:23: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:23: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:26: mosquitto version 2.1.2 starting
+2026-10-20T18:50:26: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:26: Bridge support available.
+2026-10-20T18:50:26: Persistence support available.
+2026-10-20T18:50:26: TLS support available.
+2026-10-20T18:50:26: TLS-PSK support available.
+2026-10-20T18:50:26: Websockets support available.
+2026-10-20T18:50:26: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:26: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:26: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:33: mosquitto version 2.1.2 starting
+2026-10-20T18:50:33: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:33: Bridge support available.
+2026-10-20T18:50:33: Persistence support available.
+2026-10-20T18:50:33: TLS support available.
+2026-10-20T18:50:33: TLS-PSK support available.
+2026-10-20T18:50:33: Websockets support available.
+2026-10-20T18:50:33: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:33: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:33: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:50:45: mosquitto version 2.1.2 starting
+2026-10-20T18:50:45: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:50:45: Bridge support available.
+2026-10-20T18:50:45: Persistence support available.
+2026-10-20T18:50:45: TLS support available.
+2026-10-20T18:50:45: TLS-PSK support available.
+2026-10-20T18:50:45: Websockets support available.
+2026-10-20T18:50:45: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:50:45: mosquitto version 2.1.2 terminating
+2026-10-20T18:50:45: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:51:27: mosquitto version 2.1.2 starting
+2026-10-20T18:51:27: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:51:27: Bridge support available.
+2026-10-20T18:51:27: Persistence support available.
+2026-10-20T18:51:27: TLS support available.
+2026-10-20T18:51:27: TLS-PSK support available.
+2026-10-20T18:51:27: Websockets support available.
+2026-10-20T18:51:27: Opening ipv4 listen socket on port 1883.
+2026-10-20T18:51:27: Opening ipv6 listen socket on port 1883.
+2026-10-20T18:51:27: mosquitto version 2.1.2 running
+2026-10-20T18:53:04: mosquitto version 2.1.2 terminating
+2026-10-20T18:53:04: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:53:07: mosquitto version 2.1.2 starting
+2026-10-20T18:53:07: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:53:07: Bridge support available.
+2026-10-20T18:53:07: Persistence support available.
+2026-10-20T18:53:07: TLS support available.
+2026-10-20T18:53:07: TLS-PSK support available.
+2026-10-20T18:53:07: Websockets support available.
+2026-10-20T18:53:07: Opening ipv4 listen socket on port 1883.
+2026-10-20T18:53:07: Opening ipv6 listen socket on port 1883.
+2026-10-20T18:53:07: mosquitto version 2.1.2 running
+2026-10-20T18:54:54: mosquitto version 2.1.2 terminating
+2026-10-20T18:54:54: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:54:56: mosquitto version 2.1.2 starting
+2026-10-20T18:54:56: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:54:56: Bridge support available.
+2026-10-20T18:54:56: Persistence support available.
+2026-10-20T18:54:56: TLS support available.
+2026-10-20T18:54:56: TLS-PSK support available.
+2026-10-20T18:54:56: Websockets support available.
+2026-10-20T18:54:56: Opening ipv4 listen socket on port 1883.
+2026-10-20T18:54:56: Opening ipv6 listen socket on port 1883.
+2026-10-20T18:54:56: mosquitto version 2.1.2 running
+2026-10-20T18:56:07: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:07: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:26: mosquitto version 2.1.2 starting
+2026-10-20T18:56:26: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:26: Bridge support available.
+2026-10-20T18:56:26: Persistence support available.
+2026-10-20T18:56:26: TLS support available.
+2026-10-20T18:56:26: TLS-PSK support available.
+2026-10-20T18:56:26: Websockets support available.
+2026-10-20T18:56:26: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:26: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:26: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:27: mosquitto version 2.1.2 starting
+2026-10-20T18:56:27: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:27: Bridge support available.
+2026-10-20T18:56:27: Persistence support available.
+2026-10-20T18:56:27: TLS support available.
+2026-10-20T18:56:27: TLS-PSK support available.
+2026-10-20T18:56:27: Websockets support available.
+2026-10-20T18:56:27: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:27: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:27: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:27: mosquitto version 2.1.2 starting
+2026-10-20T18:56:27: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:27: Bridge support available.
+2026-10-20T18:56:27: Persistence support available.
+2026-10-20T18:56:27: TLS support available.
+2026-10-20T18:56:27: TLS-PSK support available.
+2026-10-20T18:56:27: Websockets support available.
+2026-10-20T18:56:27: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:27: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:27: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:28: mosquitto version 2.1.2 starting
+2026-10-20T18:56:28: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:28: Bridge support available.
+2026-10-20T18:56:28: Persistence support available.
+2026-10-20T18:56:28: TLS support available.
+2026-10-20T18:56:28: TLS-PSK support available.
+2026-10-20T18:56:28: Websockets support available.
+2026-10-20T18:56:28: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:28: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:28: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:29: mosquitto version 2.1.2 starting
+2026-10-20T18:56:29: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:29: Bridge support available.
+2026-10-20T18:56:29: Persistence support available.
+2026-10-20T18:56:29: TLS support available.
+2026-10-20T18:56:29: TLS-PSK support available.
+2026-10-20T18:56:29: Websockets support available.
+2026-10-20T18:56:29: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:29: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:29: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:31: mosquitto version 2.1.2 starting
+2026-10-20T18:56:31: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:31: Bridge support available.
+2026-10-20T18:56:31: Persistence support available.
+2026-10-20T18:56:31: TLS support available.
+2026-10-20T18:56:31: TLS-PSK support available.
+2026-10-20T18:56:31: Websockets support available.
+2026-10-20T18:56:31: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:31: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:31: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:34: mosquitto version 2.1.2 starting
+2026-10-20T18:56:34: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:34: Bridge support available.
+2026-10-20T18:56:34: Persistence support available.
+2026-10-20T18:56:34: TLS support available.
+2026-10-20T18:56:34: TLS-PSK support available.
+2026-10-20T18:56:34: Websockets support available.
+2026-10-20T18:56:34: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:34: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:34: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:41: mosquitto version 2.1.2 starting
+2026-10-20T18:56:41: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:41: Bridge support available.
+2026-10-20T18:56:41: Persistence support available.
+2026-10-20T18:56:41: TLS support available.
+2026-10-20T18:56:41: TLS-PSK support available.
+2026-10-20T18:56:41: Websockets support available.
+2026-10-20T18:56:41: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:41: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:41: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:56:54: mosquitto version 2.1.2 starting
+2026-10-20T18:56:54: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:56:54: Bridge support available.
+2026-10-20T18:56:54: Persistence support available.
+2026-10-20T18:56:54: TLS support available.
+2026-10-20T18:56:54: TLS-PSK support available.
+2026-10-20T18:56:54: Websockets support available.
+2026-10-20T18:56:54: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:56:54: mosquitto version 2.1.2 terminating
+2026-10-20T18:56:54: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:57:20: mosquitto version 2.1.2 starting
+2026-10-20T18:57:20: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:57:20: Bridge support available.
+2026-10-20T18:57:20: Persistence support available.
+2026-10-20T18:57:20: TLS support available.
+2026-10-20T18:57:20: TLS-PSK support available.
+2026-10-20T18:57:20: Websockets support available.
+2026-10-20T18:57:20: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:57:20: mosquitto version 2.1.2 terminating
+2026-10-20T18:57:20: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:58:11: mosquitto version 2.1.2 starting
+2026-10-20T18:58:11: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:58:11: Bridge support available.
+2026-10-20T18:58:11: Persistence support available.
+2026-10-20T18:58:11: TLS support available.
+2026-10-20T18:58:11: TLS-PSK support available.
+2026-10-20T18:58:11: Websockets support available.
+2026-10-20T18:58:11: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:58:11: mosquitto version 2.1.2 terminating
+2026-10-20T18:58:11: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T18:59:11: mosquitto version 2.1.2 starting
+2026-10-20T18:59:11: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T18:59:11: Bridge support available.
+2026-10-20T18:59:11: Persistence support available.
+2026-10-20T18:59:11: TLS support available.
+2026-10-20T18:59:11: TLS-PSK support available.
+2026-10-20T18:59:11: Websockets support available.
+2026-10-20T18:59:11: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T18:59:11: mosquitto version 2.1.2 terminating
+2026-10-20T18:59:11: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T19:00:12: mosquitto version 2.1.2 starting
+2026-10-20T19:00:12: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T19:00:12: Bridge support available.
+2026-10-20T19:00:12: Persistence support available.
+2026-10-20T19:00:12: TLS support available.
+2026-10-20T19:00:12: TLS-PSK support available.
+2026-10-20T19:00:12: Websockets support available.
+2026-10-20T19:00:12: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T19:00:12: mosquitto version 2.1.2 terminating
+2026-10-20T19:00:12: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T19:01:12: mosquitto version 2.1.2 starting
+2026-10-20T19:01:12: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T19:01:12: Bridge support available.
+2026-10-20T19:01:12: Persistence support available.
+2026-10-20T19:01:12: TLS support available.
+2026-10-20T19:01:12: TLS-PSK support available.
+2026-10-20T19:01:12: Websockets support available.
+2026-10-20T19:01:12: password-file: Error: Unable to open pwfile "/mosquitto/config/passwd".
+2026-10-20T19:01:12: mosquitto version 2.1.2 terminating
+2026-10-20T19:01:12: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T19:02:12: mosquitto version 2.1.2 starting
+2026-10-20T19:02:12: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T19:02:12: Bridge support available.
+2026-10-20T19:02:12: Persistence support available.
+2026-10-20T19:02:12: TLS support available.
+2026-10-20T19:02:12: TLS-PSK support available.
+2026-10-20T19:02:12: Websockets support available.
+2026-10-20T19:02:12: Opening ipv4 listen socket on port 1883.
+2026-10-20T19:02:12: Opening ipv6 listen socket on port 1883.
+2026-10-20T19:02:12: mosquitto version 2.1.2 running
+2026-10-20T19:04:03: New connection from 172.18.0.1:37816 on port 1883.
+2026-10-20T19:04:03: New client connected from 172.18.0.1:37816 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-20T19:04:10: Client mqtt-explorer-379f71f2 [172.18.0.1:37816] disconnected.
+2026-10-20T19:04:18: mosquitto version 2.1.2 terminating
+2026-10-20T19:04:18: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T19:04:21: mosquitto version 2.1.2 starting
+2026-10-20T19:04:21: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T19:04:21: Bridge support available.
+2026-10-20T19:04:21: Persistence support available.
+2026-10-20T19:04:21: TLS support available.
+2026-10-20T19:04:21: TLS-PSK support available.
+2026-10-20T19:04:21: Websockets support available.
+2026-10-20T19:04:21: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-10-20T19:04:21: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-10-20T19:04:21: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-10-20T19:04:21: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-10-20T19:04:21: Opening ipv4 listen socket on port 1883.
+2026-10-20T19:04:21: Opening ipv6 listen socket on port 1883.
+2026-10-20T19:04:21: mosquitto version 2.1.2 running
+2026-10-20T19:04:26: New connection from 172.18.0.1:53032 on port 1883.
+2026-10-20T19:04:26: New client connected from 172.18.0.1:53032 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-20T19:04:27: Client mqtt-explorer-379f71f2 [172.18.0.1:53032] disconnected.
+2026-10-20T19:04:30: mosquitto version 2.1.2 terminating
+2026-10-20T19:04:30: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T19:06:05: mosquitto version 2.1.2 starting
+2026-10-20T19:06:05: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-20T19:06:05: Bridge support available.
+2026-10-20T19:06:05: Persistence support available.
+2026-10-20T19:06:05: TLS support available.
+2026-10-20T19:06:05: TLS-PSK support available.
+2026-10-20T19:06:05: Websockets support available.
+2026-10-20T19:06:05: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-10-20T19:06:05: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-10-20T19:06:05: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-10-20T19:06:05: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-10-20T19:06:05: Opening ipv4 listen socket on port 1883.
+2026-10-20T19:06:05: Opening ipv6 listen socket on port 1883.
+2026-10-20T19:06:05: mosquitto version 2.1.2 running
+2026-10-20T19:07:51: New connection from 172.18.0.1:38382 on port 1883.
+2026-10-20T19:07:51: New client connected from 172.18.0.1:38382 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-20T19:11:58: New connection from 172.18.0.2:41524 on port 1883.
+2026-10-20T19:11:58: New client connected from 172.18.0.2:41524 as nodered9c958ca496420ac0 (p4, c1, k60, u'admin').
+2026-10-20T19:19:27: Client nodered9c958ca496420ac0 [172.18.0.2:41524] disconnected.
+2026-10-20T19:19:27: New connection from 172.18.0.2:50166 on port 1883.
+2026-10-20T19:19:27: New client connected from 172.18.0.2:50166 as nodered70b2913e532b3481 (p4, c1, k60, u'admin').
+2026-10-20T19:21:29: New connection from ::1:44300 on port 1883.
+2026-10-20T19:21:29: Client auto-8C8ED5BD-C026-F806-8B28-D37804A6024D [::1:44300] disconnected: not authorised.
+2026-10-20T19:21:48: New connection from ::1:58788 on port 1883.
+2026-10-20T19:21:48: New client connected from ::1:58788 as auto-75EFEAA3-70BD-80DD-8076-F0131E46C689 (p4, c1, k60, u'admin').
+2026-10-20T19:21:48: Client auto-75EFEAA3-70BD-80DD-8076-F0131E46C689 [::1:58788] disconnected.
+2026-10-20T19:36:05: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-20T19:38:24: Client nodered70b2913e532b3481 [172.18.0.2:50166] disconnected.
+2026-10-20T19:38:24: New connection from 172.18.0.2:37256 on port 1883.
+2026-10-20T19:38:24: New client connected from 172.18.0.2:37256 as noderedb03f5f42dc0414cc (p4, c1, k60, u'admin').
+2026-10-20T19:39:02: Client mqtt-explorer-379f71f2 [172.18.0.1:38382] disconnected.
+2026-10-20T19:39:03: New connection from 172.18.0.1:53498 on port 1883.
+2026-10-20T19:39:03: New client connected from 172.18.0.1:53498 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-20T19:39:09: Client mqtt-explorer-379f71f2 [172.18.0.1:53498] disconnected.
+2026-10-20T19:39:13: New connection from 172.18.0.1:41878 on port 1883.
+2026-10-20T19:39:13: New client connected from 172.18.0.1:41878 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-20T19:40:11: Client noderedb03f5f42dc0414cc [172.18.0.2:37256] disconnected.
+2026-10-20T19:40:11: New connection from 172.18.0.2:45006 on port 1883.
+2026-10-20T19:40:11: New client connected from 172.18.0.2:45006 as nodered72f917406683ff28 (p4, c1, k60, u'admin').
+2026-10-20T19:41:52: Client nodered72f917406683ff28 [172.18.0.2:45006] disconnected.
+2026-10-20T19:41:52: New connection from 172.18.0.2:53442 on port 1883.
+2026-10-20T19:41:52: New client connected from 172.18.0.2:53442 as noderedd7b019fbd328edc9 (p4, c1, k60, u'admin').
+2026-10-20T19:44:58: Client noderedd7b019fbd328edc9 [172.18.0.2:53442] disconnected.
+2026-10-20T19:44:58: New connection from 172.18.0.2:41376 on port 1883.
+2026-10-20T19:44:58: New client connected from 172.18.0.2:41376 as noderedacd8b823572b1397 (p4, c1, k60, u'admin').
+2026-10-20T19:45:26: Client noderedacd8b823572b1397 [172.18.0.2:41376] disconnected.
+2026-10-20T19:45:26: New connection from 172.18.0.2:47336 on port 1883.
+2026-10-20T19:45:26: New client connected from 172.18.0.2:47336 as nodered3bf42e0c4fa5d450 (p4, c1, k60, u'admin').
+2026-10-20T19:52:24: Client nodered3bf42e0c4fa5d450 [172.18.0.2:47336] disconnected.
+2026-10-20T19:52:24: New connection from 172.18.0.2:59698 on port 1883.
+2026-10-20T19:52:24: New client connected from 172.18.0.2:59698 as nodered6c0181357c42df7c (p4, c1, k60, u'admin').
+2026-10-20T19:54:13: Client nodered6c0181357c42df7c [172.18.0.2:59698] disconnected.
+2026-10-20T19:54:13: New connection from 172.18.0.2:40080 on port 1883.
+2026-10-20T19:54:13: New client connected from 172.18.0.2:40080 as noderede792ba2039f5b255 (p4, c1, k60, u'admin').
+2026-10-20T19:54:32: Client noderede792ba2039f5b255 [172.18.0.2:40080] disconnected.
+2026-10-20T19:54:32: New connection from 172.18.0.2:48786 on port 1883.
+2026-10-20T19:54:32: New client connected from 172.18.0.2:48786 as noderedb29b42b5d1bdbaf7 (p4, c1, k60, u'admin').
+2026-10-20T19:55:48: Client noderedb29b42b5d1bdbaf7 [172.18.0.2:48786] disconnected.
+2026-10-20T19:55:48: New connection from 172.18.0.2:53030 on port 1883.
+2026-10-20T19:55:48: New client connected from 172.18.0.2:53030 as noderedea8a8e881050bc98 (p4, c1, k60, u'admin').
+2026-10-20T19:56:10: Client noderedea8a8e881050bc98 [172.18.0.2:53030] disconnected.
+2026-10-20T19:56:10: New connection from 172.18.0.2:40086 on port 1883.
+2026-10-20T19:56:10: New client connected from 172.18.0.2:40086 as noderedd48bbc9ad61ebeea (p4, c1, k60, u'admin').
+2026-10-20T19:56:33: Client noderedd48bbc9ad61ebeea [172.18.0.2:40086] disconnected.
+2026-10-20T19:56:33: New connection from 172.18.0.2:60612 on port 1883.
+2026-10-20T19:56:33: New client connected from 172.18.0.2:60612 as noderedc5333aedf32d5364 (p4, c1, k60, u'admin').
+2026-10-20T19:57:17: Client noderedc5333aedf32d5364 [172.18.0.2:60612] disconnected.
+2026-10-20T19:57:17: New connection from 172.18.0.2:58464 on port 1883.
+2026-10-20T19:57:17: New client connected from 172.18.0.2:58464 as nodered1dc247e67197415a (p4, c1, k60, u'admin').
+2026-10-20T19:59:37: Client mqtt-explorer-379f71f2 [172.18.0.1:41878] disconnected.
+2026-10-20T19:59:44: Client nodered1dc247e67197415a [172.18.0.2:58464] disconnected.
+2026-10-20T19:59:44: mosquitto version 2.1.2 terminating
+2026-10-20T19:59:44: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-27T18:33:59: mosquitto version 2.1.2 starting
+2026-10-27T18:33:59: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-27T18:33:59: Bridge support available.
+2026-10-27T18:33:59: Persistence support available.
+2026-10-27T18:33:59: TLS support available.
+2026-10-27T18:33:59: TLS-PSK support available.
+2026-10-27T18:33:59: Websockets support available.
+2026-10-27T18:33:59: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-10-27T18:33:59: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-10-27T18:33:59: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-10-27T18:33:59: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-10-27T18:33:59: Opening ipv4 listen socket on port 1883.
+2026-10-27T18:33:59: Opening ipv6 listen socket on port 1883.
+2026-10-27T18:33:59: mosquitto version 2.1.2 running
+2026-10-27T18:34:05: New connection from 172.18.0.3:40134 on port 1883.
+2026-10-27T18:34:05: New client connected from 172.18.0.3:40134 as nodered25828074d7b6ac49 (p4, c1, k60, u'admin').
+2026-10-27T18:34:49: New connection from 172.18.0.1:44952 on port 1883.
+2026-10-27T18:34:49: New client connected from 172.18.0.1:44952 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-27T18:37:35: Client mqtt-explorer-379f71f2 [172.18.0.1:44952] disconnected.
+2026-10-27T18:37:37: New connection from 172.18.0.1:35082 on port 1883.
+2026-10-27T18:37:37: New client connected from 172.18.0.1:35082 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-27T18:44:44: New connection from ::1:50784 on port 1883.
+2026-10-27T18:44:44: New client connected from ::1:50784 as auto-2B081BDA-5934-5542-1649-A2A450A5F2B4 (p4, c1, k60, u'admin').
+2026-10-27T18:44:44: Client auto-2B081BDA-5934-5542-1649-A2A450A5F2B4 [::1:50784] disconnected.
+2026-10-27T18:56:44: Client nodered25828074d7b6ac49 [172.18.0.3:40134] disconnected.
+2026-10-27T18:56:44: New connection from 172.18.0.3:60346 on port 1883.
+2026-10-27T18:56:44: New client connected from 172.18.0.3:60346 as nodered0da0a9404ec437a0 (p4, c1, k60, u'admin').
+2026-10-27T18:57:30: New connection from ::1:45200 on port 1883.
+2026-10-27T18:57:30: New client connected from ::1:45200 as auto-6D26E9F4-D5E3-D961-CC2D-1F3439BD6C82 (p4, c1, k60, u'admin').
+2026-10-27T18:57:30: Client auto-6D26E9F4-D5E3-D961-CC2D-1F3439BD6C82 [::1:45200] disconnected.
+2026-10-27T18:57:38: New connection from ::1:54082 on port 1883.
+2026-10-27T18:57:38: New client connected from ::1:54082 as auto-4B7B06A8-52E5-4EE5-A921-9A3B7E6C65A0 (p4, c1, k60, u'admin').
+2026-10-27T18:57:38: Client auto-4B7B06A8-52E5-4EE5-A921-9A3B7E6C65A0 [::1:54082] disconnected.
+2026-10-27T18:57:48: New connection from ::1:51978 on port 1883.
+2026-10-27T18:57:48: New client connected from ::1:51978 as auto-7F5FCDEE-856A-A497-59EB-EBBB0FF0E910 (p4, c1, k60, u'admin').
+2026-10-27T18:57:48: Client auto-7F5FCDEE-856A-A497-59EB-EBBB0FF0E910 [::1:51978] disconnected.
+2026-10-27T18:57:57: New connection from ::1:39598 on port 1883.
+2026-10-27T18:57:57: New client connected from ::1:39598 as auto-A8C5CC3A-4C18-E07D-A9F4-FFA432D96DD7 (p4, c1, k60, u'admin').
+2026-10-27T18:57:57: Client auto-A8C5CC3A-4C18-E07D-A9F4-FFA432D96DD7 [::1:39598] disconnected.
+2026-10-27T18:58:04: New connection from ::1:58470 on port 1883.
+2026-10-27T18:58:04: New client connected from ::1:58470 as auto-2A227D4D-3798-71E5-18E9-86D13E671C99 (p4, c1, k60, u'admin').
+2026-10-27T18:58:04: Client auto-2A227D4D-3798-71E5-18E9-86D13E671C99 [::1:58470] disconnected.
+2026-10-27T18:58:07: New connection from ::1:58474 on port 1883.
+2026-10-27T18:58:07: New client connected from ::1:58474 as auto-872BC987-DF84-AEE3-EC94-1DCC55CF9827 (p4, c1, k60, u'admin').
+2026-10-27T18:58:07: Client auto-872BC987-DF84-AEE3-EC94-1DCC55CF9827 [::1:58474] disconnected.
+2026-10-27T18:58:10: New connection from ::1:58482 on port 1883.
+2026-10-27T18:58:10: New client connected from ::1:58482 as auto-C853E166-4A36-BCE6-AF39-78F7FC283383 (p4, c1, k60, u'admin').
+2026-10-27T18:58:10: Client auto-C853E166-4A36-BCE6-AF39-78F7FC283383 [::1:58482] disconnected.
+2026-10-27T19:03:59: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-27T19:21:42: Client nodered0da0a9404ec437a0 [172.18.0.3:60346] disconnected.
+2026-10-27T19:21:43: mosquitto version 2.1.2 terminating
+2026-10-27T19:21:43: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-27T19:30:17: mosquitto version 2.1.2 starting
+2026-10-27T19:30:17: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-27T19:30:17: Bridge support available.
+2026-10-27T19:30:17: Persistence support available.
+2026-10-27T19:30:17: TLS support available.
+2026-10-27T19:30:17: TLS-PSK support available.
+2026-10-27T19:30:17: Websockets support available.
+2026-10-27T19:30:17: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-10-27T19:30:17: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-10-27T19:30:17: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-10-27T19:30:17: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-10-27T19:30:17: Opening ipv4 listen socket on port 1883.
+2026-10-27T19:30:17: Opening ipv6 listen socket on port 1883.
+2026-10-27T19:30:17: mosquitto version 2.1.2 running
+2026-10-27T19:30:18: New connection from 172.18.0.1:42480 on port 1883.
+2026-10-27T19:30:18: New client connected from 172.18.0.1:42480 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-27T19:30:26: New connection from 172.18.0.3:45164 on port 1883.
+2026-10-27T19:30:26: New client connected from 172.18.0.3:45164 as nodered937ca27779018767 (p4, c1, k60, u'admin').
+2026-10-27T19:45:17: Client nodered937ca27779018767 [172.18.0.3:45164] disconnected.
+2026-10-27T19:45:17: mosquitto version 2.1.2 terminating
+2026-10-27T19:45:17: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-27T19:58:54: mosquitto version 2.1.2 starting
+2026-10-27T19:58:54: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-27T19:58:54: Bridge support available.
+2026-10-27T19:58:54: Persistence support available.
+2026-10-27T19:58:54: TLS support available.
+2026-10-27T19:58:54: TLS-PSK support available.
+2026-10-27T19:58:54: Websockets support available.
+2026-10-27T19:58:54: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-10-27T19:58:54: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-10-27T19:58:54: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-10-27T19:58:54: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-10-27T19:58:54: Opening ipv4 listen socket on port 1883.
+2026-10-27T19:58:54: Opening ipv6 listen socket on port 1883.
+2026-10-27T19:58:54: mosquitto version 2.1.2 running
+2026-10-27T19:58:55: New connection from 172.18.0.1:55116 on port 1883.
+2026-10-27T19:58:55: New client connected from 172.18.0.1:55116 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-27T19:59:01: New connection from 172.18.0.3:40102 on port 1883.
+2026-10-27T19:59:01: New client connected from 172.18.0.3:40102 as nodered508ecaaa0c0b601b (p4, c1, k60, u'admin').
+2026-10-27T20:02:53: Client nodered508ecaaa0c0b601b [172.18.0.3:40102] disconnected.
+2026-10-27T20:02:53: mosquitto version 2.1.2 terminating
+2026-10-27T20:02:53: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-27T20:03:00: mosquitto version 2.1.2 starting
+2026-10-27T20:03:00: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-10-27T20:03:00: Bridge support available.
+2026-10-27T20:03:00: Persistence support available.
+2026-10-27T20:03:00: TLS support available.
+2026-10-27T20:03:00: TLS-PSK support available.
+2026-10-27T20:03:00: Websockets support available.
+2026-10-27T20:03:00: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-10-27T20:03:00: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-10-27T20:03:00: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-10-27T20:03:00: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-10-27T20:03:00: Opening ipv4 listen socket on port 1883.
+2026-10-27T20:03:00: Opening ipv6 listen socket on port 1883.
+2026-10-27T20:03:00: mosquitto version 2.1.2 running
+2026-10-27T20:03:00: New connection from 172.18.0.1:34094 on port 1883.
+2026-10-27T20:03:00: New client connected from 172.18.0.1:34094 as mqtt-explorer-379f71f2 (p4, c1, k60, u'admin').
+2026-10-27T20:03:07: New connection from 172.18.0.3:38746 on port 1883.
+2026-10-27T20:03:07: New client connected from 172.18.0.3:38746 as nodered81abd3a89ad13c2a (p4, c1, k60, u'admin').
+2026-10-27T20:14:40: Client nodered81abd3a89ad13c2a [172.18.0.3:38746] disconnected.
