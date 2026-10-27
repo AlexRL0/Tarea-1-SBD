@@ -1127,3 +1127,42 @@ To fix this, use `chmod 0700 /mosquitto/config/passwd`.
 2026-10-27T20:36:04: Client noderedad1f958dbf847459 [172.18.0.3:47926] disconnected.
 2026-10-27T20:36:04: New connection from 172.18.0.3:36772 on port 1883.
 2026-10-27T20:36:04: New client connected from 172.18.0.3:36772 as noderedbc2dd818b46ff9d6 (p4, c1, k60, u'admin').
+2026-10-27T20:42:01: New connection from ::1:33608 on port 1883.
+2026-10-27T20:42:01: New client connected from ::1:33608 as auto-D5C1B100-E5F7-5CB6-70F7-0F49B6F8A5A1 (p4, c1, k60, u'admin').
+2026-10-27T20:42:01: Client auto-D5C1B100-E5F7-5CB6-70F7-0F49B6F8A5A1 [::1:33608] disconnected.
+2026-10-27T20:42:09: Client noderedbc2dd818b46ff9d6 [172.18.0.3:36772] disconnected.
+2026-10-27T20:42:09: New connection from 172.18.0.3:36236 on port 1883.
+2026-10-27T20:42:09: New client connected from 172.18.0.3:36236 as nodered14f7c96a6c9e87a8 (p4, c1, k60, u'admin').
+2026-10-27T20:42:24: New connection from ::1:51020 on port 1883.
+2026-10-27T20:42:24: New client connected from ::1:51020 as auto-0575C91E-2700-32F9-7640-04D8940BFD10 (p4, c1, k60, u'admin').
+2026-10-27T20:42:24: Client auto-0575C91E-2700-32F9-7640-04D8940BFD10 [::1:51020] disconnected.
+2026-10-27T20:42:48: New connection from ::1:52686 on port 1883.
+2026-10-27T20:42:48: New client connected from ::1:52686 as auto-37CA1C28-41CF-15F1-BDC4-BE4F08961C12 (p4, c1, k60, u'admin').
+2026-10-27T20:42:48: Client auto-37CA1C28-41CF-15F1-BDC4-BE4F08961C12 [::1:52686] disconnected.
+2026-10-27T20:45:30: Client nodered14f7c96a6c9e87a8 [172.18.0.3:36236] disconnected.
+2026-10-27T20:45:30: New connection from 172.18.0.3:39132 on port 1883.
+2026-10-27T20:45:30: New client connected from 172.18.0.3:39132 as nodered6b03926281fd08e3 (p4, c1, k60, u'admin').
+2026-10-27T20:45:34: New connection from ::1:60046 on port 1883.
+2026-10-27T20:45:34: New client connected from ::1:60046 as auto-F102443E-A88C-7CB3-E0CD-DA71167D9F6C (p4, c1, k60, u'admin').
+2026-10-27T20:45:34: Client auto-F102443E-A88C-7CB3-E0CD-DA71167D9F6C [::1:60046] disconnected.
+2026-10-27T20:47:32: Client nodered6b03926281fd08e3 [172.18.0.3:39132] disconnected.
+2026-10-27T20:47:32: New connection from 172.18.0.3:48024 on port 1883.
+2026-10-27T20:47:32: New client connected from 172.18.0.3:48024 as nodered3cc79272b1130bc8 (p4, c1, k60, u'admin').
+2026-10-27T20:47:37: New connection from ::1:47434 on port 1883.
+2026-10-27T20:47:37: New client connected from ::1:47434 as auto-DF9CA3CB-B4EA-CFE7-C003-48D13F7D5665 (p4, c1, k60, u'admin').
+2026-10-27T20:47:37: Client auto-DF9CA3CB-B4EA-CFE7-C003-48D13F7D5665 [::1:47434] disconnected.
+2026-10-27T20:50:01: Client nodered3cc79272b1130bc8 [172.18.0.3:48024] disconnected.
+2026-10-27T20:50:01: New connection from 172.18.0.3:60050 on port 1883.
+2026-10-27T20:50:01: New client connected from 172.18.0.3:60050 as nodered0cbca3dc7ab33a65 (p4, c1, k60, u'admin').
+2026-10-27T20:50:04: New connection from ::1:35828 on port 1883.
+2026-10-27T20:50:04: New client connected from ::1:35828 as auto-08D6BEB0-2C38-63FA-9977-9ADA44305F8C (p4, c1, k60, u'admin').
+2026-10-27T20:50:04: Client auto-08D6BEB0-2C38-63FA-9977-9ADA44305F8C [::1:35828] disconnected.
+2026-10-27T20:55:03: Client nodered0cbca3dc7ab33a65 [172.18.0.3:60050] disconnected.
+2026-10-27T20:55:03: New connection from 172.18.0.3:46462 on port 1883.
+2026-10-27T20:55:03: New client connected from 172.18.0.3:46462 as nodered830ac4928728e1c6 (p4, c1, k60, u'admin').
+2026-10-27T20:55:06: New connection from ::1:58170 on port 1883.
+2026-10-27T20:55:06: New client connected from ::1:58170 as auto-2FF3488C-0107-965F-1461-1792B8049ACA (p4, c1, k60, u'admin').
+2026-10-27T20:55:06: Client auto-2FF3488C-0107-965F-1461-1792B8049ACA [::1:58170] disconnected.
+2026-10-27T20:55:25: New connection from ::1:37692 on port 1883.
+2026-10-27T20:55:25: New client connected from ::1:37692 as auto-B5E1BD55-996F-1DED-55EA-183BAE4C50F3 (p4, c1, k60, u'admin').
+2026-10-27T20:55:25: Client auto-B5E1BD55-996F-1DED-55EA-183BAE4C50F3 [::1:37692] disconnected.
