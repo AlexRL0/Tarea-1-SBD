@@ -71,7 +71,6 @@ secrets:
     file: ./.env.influxdb2-admin-token
 
 
-
 networks:
   t1-lan:
     driver: bridge
