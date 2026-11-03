@@ -1166,3 +1166,19 @@ To fix this, use `chmod 0700 /mosquitto/config/passwd`.
 2026-10-27T20:55:25: New connection from ::1:37692 on port 1883.
 2026-10-27T20:55:25: New client connected from ::1:37692 as auto-B5E1BD55-996F-1DED-55EA-183BAE4C50F3 (p4, c1, k60, u'admin').
 2026-10-27T20:55:25: Client auto-B5E1BD55-996F-1DED-55EA-183BAE4C50F3 [::1:37692] disconnected.
+2026-10-27T20:59:45: New connection from ::1:59134 on port 1883.
+2026-10-27T20:59:45: New client connected from ::1:59134 as auto-B1A8315F-A6CA-29B6-CF4E-2392E9623B41 (p4, c1, k60, u'admin').
+2026-10-27T20:59:45: Client auto-B1A8315F-A6CA-29B6-CF4E-2392E9623B41 [::1:59134] disconnected.
+2026-10-27T21:02:28: Client nodered830ac4928728e1c6 [172.18.0.3:46462] disconnected.
+2026-10-27T21:02:28: New connection from 172.18.0.3:34100 on port 1883.
+2026-10-27T21:02:28: New client connected from 172.18.0.3:34100 as nodered4b18f50da78175cd (p4, c1, k60, u'admin').
+2026-10-27T21:02:43: Client nodered4b18f50da78175cd [172.18.0.3:34100] disconnected.
+2026-10-27T21:02:43: New connection from 172.18.0.3:52192 on port 1883.
+2026-10-27T21:02:43: New client connected from 172.18.0.3:52192 as nodered7e7dee758ed24cf6 (p4, c1, k60, u'admin').
+2026-10-27T21:02:51: New connection from ::1:60406 on port 1883.
+2026-10-27T21:02:51: New client connected from ::1:60406 as auto-00073CA4-7F52-40C8-FC0E-C88A982570D8 (p4, c1, k60, u'admin').
+2026-10-27T21:02:51: Client auto-00073CA4-7F52-40C8-FC0E-C88A982570D8 [::1:60406] disconnected.
+2026-10-27T21:03:01: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-10-27T21:03:35: Client nodered7e7dee758ed24cf6 [172.18.0.3:52192] disconnected.
+2026-10-27T21:03:36: mosquitto version 2.1.2 terminating
+2026-10-27T21:03:36: Saving in-memory database to /mosquitto/data//mosquitto.db.
