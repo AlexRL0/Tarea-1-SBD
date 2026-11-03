@@ -30,6 +30,7 @@ services:
 
   db:
     image: influxdb:2
+    container_name: influxdb_t1
     ports:
       - "${INFLUXDB_PORT:-8086}:8086"
     env_file:
@@ -44,7 +45,23 @@ services:
     networks:
     - t1-lan
     depends_on:
-    - node-red  
+    - node-red
+
+  grafana:
+    image: grafana/grafana
+    container_name: grafana_t1
+    env_file:
+      - .env
+    ports:
+      - "${GRAFANA_PORT:-3000}:3000"
+    volumes:
+      - './grafana/data:/var/lib/grafana'
+    networks:
+    - t1-lan
+    depends_on:
+    - db
+
+
 secrets:
   influxdb2-admin-username:
     file: ./.env.influxdb2-admin-username
