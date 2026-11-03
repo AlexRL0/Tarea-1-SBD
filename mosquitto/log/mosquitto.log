@@ -1182,3 +1182,328 @@ To fix this, use `chmod 0700 /mosquitto/config/passwd`.
 2026-10-27T21:03:35: Client nodered7e7dee758ed24cf6 [172.18.0.3:52192] disconnected.
 2026-10-27T21:03:36: mosquitto version 2.1.2 terminating
 2026-10-27T21:03:36: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-11-03T18:21:05: mosquitto version 2.1.2 starting
+2026-11-03T18:21:05: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-11-03T18:21:05: Bridge support available.
+2026-11-03T18:21:05: Persistence support available.
+2026-11-03T18:21:05: TLS support available.
+2026-11-03T18:21:05: TLS-PSK support available.
+2026-11-03T18:21:05: Websockets support available.
+2026-11-03T18:21:05: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-11-03T18:21:05: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-11-03T18:21:05: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-11-03T18:21:05: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-11-03T18:21:05: Opening ipv4 listen socket on port 1883.
+2026-11-03T18:21:05: Opening ipv6 listen socket on port 1883.
+2026-11-03T18:21:05: mosquitto version 2.1.2 running
+2026-11-03T18:21:14: New connection from 172.18.0.3:41430 on port 1883.
+2026-11-03T18:21:14: New client connected from 172.18.0.3:41430 as nodered07d5d5ebdda627bc (p4, c1, k60, u'admin').
+2026-11-03T18:21:38: Client nodered07d5d5ebdda627bc [172.18.0.3:41430] disconnected.
+2026-11-03T18:21:38: New connection from 172.18.0.3:48984 on port 1883.
+2026-11-03T18:21:38: New client connected from 172.18.0.3:48984 as nodered580980d9a0e99348 (p4, c1, k60, u'admin').
+2026-11-03T18:22:11: New connection from 172.18.0.1:52442 on port 1883.
+2026-11-03T18:22:11: New connection from 172.18.0.1:52458 on port 1883.
+2026-11-03T18:22:11: Protocol error from 172.18.0.1:52442: First packet not CONNECT (47).
+2026-11-03T18:22:11: Client 172.18.0.1 [172.18.0.1:52442] disconnected: protocol error.
+2026-11-03T18:22:12: Protocol error from 172.18.0.1:52458: First packet not CONNECT (47).
+2026-11-03T18:22:12: Client 172.18.0.1 [172.18.0.1:52458] disconnected: protocol error.
+2026-11-03T18:22:12: New connection from 172.18.0.1:52472 on port 1883.
+2026-11-03T18:22:12: Protocol error from 172.18.0.1:52472: First packet not CONNECT (47).
+2026-11-03T18:22:12: Client 172.18.0.1 [172.18.0.1:52472] disconnected: protocol error.
+2026-11-03T18:22:12: New connection from 172.18.0.1:52478 on port 1883.
+2026-11-03T18:22:12: Protocol error from 172.18.0.1:52478: First packet not CONNECT (47).
+2026-11-03T18:22:12: Client 172.18.0.1 [172.18.0.1:52478] disconnected: protocol error.
+2026-11-03T18:22:13: New connection from 172.18.0.1:52484 on port 1883.
+2026-11-03T18:22:13: New connection from 172.18.0.1:52486 on port 1883.
+2026-11-03T18:22:13: Protocol error from 172.18.0.1:52484: First packet not CONNECT (47).
+2026-11-03T18:22:13: Client 172.18.0.1 [172.18.0.1:52484] disconnected: protocol error.
+2026-11-03T18:22:13: Protocol error from 172.18.0.1:52486: First packet not CONNECT (47).
+2026-11-03T18:22:13: Client 172.18.0.1 [172.18.0.1:52486] disconnected: protocol error.
+2026-11-03T18:22:13: New connection from 172.18.0.1:52502 on port 1883.
+2026-11-03T18:22:13: Protocol error from 172.18.0.1:52502: First packet not CONNECT (47).
+2026-11-03T18:22:13: Client 172.18.0.1 [172.18.0.1:52502] disconnected: protocol error.
+2026-11-03T18:22:13: New connection from 172.18.0.1:52506 on port 1883.
+2026-11-03T18:22:13: Protocol error from 172.18.0.1:52506: First packet not CONNECT (47).
+2026-11-03T18:22:13: Client 172.18.0.1 [172.18.0.1:52506] disconnected: protocol error.
+2026-11-03T18:22:13: New connection from 172.18.0.1:52520 on port 1883.
+2026-11-03T18:22:13: New connection from 172.18.0.1:52528 on port 1883.
+2026-11-03T18:22:13: Protocol error from 172.18.0.1:52520: First packet not CONNECT (47).
+2026-11-03T18:22:13: Client 172.18.0.1 [172.18.0.1:52520] disconnected: protocol error.
+2026-11-03T18:22:13: Protocol error from 172.18.0.1:52528: First packet not CONNECT (47).
+2026-11-03T18:22:13: Client 172.18.0.1 [172.18.0.1:52528] disconnected: protocol error.
+2026-11-03T18:22:13: New connection from 172.18.0.1:52536 on port 1883.
+2026-11-03T18:22:13: Protocol error from 172.18.0.1:52536: First packet not CONNECT (47).
+2026-11-03T18:22:13: Client 172.18.0.1 [172.18.0.1:52536] disconnected: protocol error.
+2026-11-03T18:22:13: New connection from 172.18.0.1:52544 on port 1883.
+2026-11-03T18:22:13: Protocol error from 172.18.0.1:52544: First packet not CONNECT (47).
+2026-11-03T18:22:13: Client 172.18.0.1 [172.18.0.1:52544] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52558 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52558: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52558] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52562 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52562: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52562] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52576 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52576: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52576] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52582 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52582: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52582] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52594 on port 1883.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52606 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52594: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52594] disconnected: protocol error.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52606: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52606] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52620 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52620: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52620] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52628 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52628: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52628] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52644 on port 1883.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52654 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52644: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52644] disconnected: protocol error.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52654: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52654] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52660 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52660: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52660] disconnected: protocol error.
+2026-11-03T18:22:14: New connection from 172.18.0.1:52666 on port 1883.
+2026-11-03T18:22:14: Protocol error from 172.18.0.1:52666: First packet not CONNECT (47).
+2026-11-03T18:22:14: Client 172.18.0.1 [172.18.0.1:52666] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52670 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52670: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52670] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52682 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52682: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52682] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52694 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52694: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52694] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52710 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52710: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52710] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52714 on port 1883.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52726 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52714: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52714] disconnected: protocol error.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52726: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52726] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52742 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52742: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52742] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52746 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52746: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52746] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52760 on port 1883.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52766 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52760: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52760] disconnected: protocol error.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52766: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52766] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52772 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52772: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52772] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52784 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52784: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52784] disconnected: protocol error.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52798 on port 1883.
+2026-11-03T18:22:15: New connection from 172.18.0.1:52814 on port 1883.
+2026-11-03T18:22:15: Protocol error from 172.18.0.1:52798: First packet not CONNECT (47).
+2026-11-03T18:22:15: Client 172.18.0.1 [172.18.0.1:52798] disconnected: protocol error.
+2026-11-03T18:22:16: Protocol error from 172.18.0.1:52814: First packet not CONNECT (47).
+2026-11-03T18:22:16: Client 172.18.0.1 [172.18.0.1:52814] disconnected: protocol error.
+2026-11-03T18:22:16: New connection from 172.18.0.1:52826 on port 1883.
+2026-11-03T18:22:16: Protocol error from 172.18.0.1:52826: First packet not CONNECT (47).
+2026-11-03T18:22:16: Client 172.18.0.1 [172.18.0.1:52826] disconnected: protocol error.
+2026-11-03T18:22:16: New connection from 172.18.0.1:52842 on port 1883.
+2026-11-03T18:22:16: Protocol error from 172.18.0.1:52842: First packet not CONNECT (47).
+2026-11-03T18:22:16: Client 172.18.0.1 [172.18.0.1:52842] disconnected: protocol error.
+2026-11-03T18:22:16: New connection from 172.18.0.1:52848 on port 1883.
+2026-11-03T18:22:16: Protocol error from 172.18.0.1:52848: First packet not CONNECT (47).
+2026-11-03T18:22:16: Client 172.18.0.1 [172.18.0.1:52848] disconnected: protocol error.
+2026-11-03T18:22:16: New connection from 172.18.0.1:52858 on port 1883.
+2026-11-03T18:22:16: Protocol error from 172.18.0.1:52858: First packet not CONNECT (47).
+2026-11-03T18:22:16: Client 172.18.0.1 [172.18.0.1:52858] disconnected: protocol error.
+2026-11-03T18:22:21: New connection from 172.18.0.1:60664 on port 1883.
+2026-11-03T18:22:21: New connection from 172.18.0.1:60670 on port 1883.
+2026-11-03T18:22:21: Protocol error from 172.18.0.1:60664: First packet not CONNECT (47).
+2026-11-03T18:22:21: Client 172.18.0.1 [172.18.0.1:60664] disconnected: protocol error.
+2026-11-03T18:22:46: Protocol error from 172.18.0.1:60670: First packet not CONNECT (47).
+2026-11-03T18:22:46: Client 172.18.0.1 [172.18.0.1:60670] disconnected: protocol error.
+2026-11-03T18:22:46: New connection from 172.18.0.1:38142 on port 1883.
+2026-11-03T18:22:46: New connection from 172.18.0.1:38146 on port 1883.
+2026-11-03T18:22:46: Protocol error from 172.18.0.1:38142: First packet not CONNECT (47).
+2026-11-03T18:22:46: Client 172.18.0.1 [172.18.0.1:38142] disconnected: protocol error.
+2026-11-03T18:23:17: Client 172.18.0.1 [172.18.0.1:38146] disconnected: exceeded timeout.
+2026-11-03T18:27:24: Client nodered580980d9a0e99348 [172.18.0.3:48984] disconnected.
+2026-11-03T18:27:24: New connection from 172.18.0.3:53006 on port 1883.
+2026-11-03T18:27:24: New client connected from 172.18.0.3:53006 as nodered88cca965a959c661 (p4, c1, k60, u'admin').
+2026-11-03T18:27:39: Client nodered88cca965a959c661 [172.18.0.3:53006] disconnected.
+2026-11-03T18:27:39: New connection from 172.18.0.3:58730 on port 1883.
+2026-11-03T18:27:39: New client connected from 172.18.0.3:58730 as nodered7d1f62691d43a5f7 (p4, c1, k60, u'admin').
+2026-11-03T18:29:34: Client nodered7d1f62691d43a5f7 [172.18.0.3:58730] disconnected.
+2026-11-03T18:29:34: New connection from 172.18.0.3:38784 on port 1883.
+2026-11-03T18:29:34: New client connected from 172.18.0.3:38784 as nodered95fe0daa7e0173e8 (p4, c1, k60, u'admin').
+2026-11-03T18:32:44: Client nodered95fe0daa7e0173e8 [172.18.0.3:38784] disconnected.
+2026-11-03T18:32:44: New connection from 172.18.0.3:48148 on port 1883.
+2026-11-03T18:32:44: New client connected from 172.18.0.3:48148 as nodered2ae74a004fb0a62c (p4, c1, k60, u'admin').
+2026-11-03T18:33:30: Client nodered2ae74a004fb0a62c [172.18.0.3:48148] disconnected.
+2026-11-03T18:33:30: New connection from 172.18.0.3:54528 on port 1883.
+2026-11-03T18:33:30: New client connected from 172.18.0.3:54528 as noderedf1613082b70aa798 (p4, c1, k60, u'admin').
+2026-11-03T18:40:58: Client noderedf1613082b70aa798 [172.18.0.3:54528] disconnected.
+2026-11-03T18:40:58: New connection from 172.18.0.3:53056 on port 1883.
+2026-11-03T18:40:58: New client connected from 172.18.0.3:53056 as noderedc6b8be40bd9a03b2 (p4, c1, k60, u'admin').
+2026-11-03T18:42:07: New connection from ::1:51472 on port 1883.
+2026-11-03T18:42:07: New client connected from ::1:51472 as auto-202E1F29-F02A-E4C6-4CF8-8BD60C791330 (p4, c1, k60, u'admin').
+2026-11-03T18:42:07: Client auto-202E1F29-F02A-E4C6-4CF8-8BD60C791330 [::1:51472] disconnected.
+2026-11-03T18:44:55: Client noderedc6b8be40bd9a03b2 [172.18.0.3:53056] disconnected.
+2026-11-03T18:44:55: New connection from 172.18.0.3:36788 on port 1883.
+2026-11-03T18:44:55: New client connected from 172.18.0.3:36788 as nodered1960ca27e5e8d964 (p4, c1, k60, u'admin').
+2026-11-03T18:44:59: New connection from ::1:56382 on port 1883.
+2026-11-03T18:44:59: New client connected from ::1:56382 as auto-BDE2D952-25DA-C2B4-251A-234666BDFFF1 (p4, c1, k60, u'admin').
+2026-11-03T18:44:59: Client auto-BDE2D952-25DA-C2B4-251A-234666BDFFF1 [::1:56382] disconnected.
+2026-11-03T18:45:43: Client nodered1960ca27e5e8d964 [172.18.0.3:36788] disconnected.
+2026-11-03T18:45:43: New connection from 172.18.0.3:57042 on port 1883.
+2026-11-03T18:45:43: New client connected from 172.18.0.3:57042 as nodered8b9c83f1816d222c (p4, c1, k60, u'admin').
+2026-11-03T18:45:51: New connection from ::1:47480 on port 1883.
+2026-11-03T18:45:51: New client connected from ::1:47480 as auto-29012DE5-ACBA-AFA3-B38D-44E09C10A46B (p4, c1, k60, u'admin').
+2026-11-03T18:45:51: Client auto-29012DE5-ACBA-AFA3-B38D-44E09C10A46B [::1:47480] disconnected.
+2026-11-03T18:48:03: Client nodered8b9c83f1816d222c [172.18.0.3:57042] disconnected.
+2026-11-03T18:48:03: New connection from 172.18.0.3:52414 on port 1883.
+2026-11-03T18:48:03: New client connected from 172.18.0.3:52414 as nodered15e7d5e4e9026ab7 (p4, c1, k60, u'admin').
+2026-11-03T18:48:10: New connection from ::1:50652 on port 1883.
+2026-11-03T18:48:10: New client connected from ::1:50652 as auto-9794F73D-8793-F4B8-8126-57DFC7CD8848 (p4, c1, k60, u'admin').
+2026-11-03T18:48:10: Client auto-9794F73D-8793-F4B8-8126-57DFC7CD8848 [::1:50652] disconnected.
+2026-11-03T18:50:18: Client nodered15e7d5e4e9026ab7 [172.18.0.3:52414] disconnected.
+2026-11-03T18:50:18: New connection from 172.18.0.3:57722 on port 1883.
+2026-11-03T18:50:18: New client connected from 172.18.0.3:57722 as nodered47aa7b9020d73fa2 (p4, c1, k60, u'admin').
+2026-11-03T18:50:23: New connection from ::1:49040 on port 1883.
+2026-11-03T18:50:23: New client connected from ::1:49040 as auto-A67F0A31-1888-843F-2F46-B2BEC33A10F6 (p4, c1, k60, u'admin').
+2026-11-03T18:50:23: Client auto-A67F0A31-1888-843F-2F46-B2BEC33A10F6 [::1:49040] disconnected.
+2026-11-03T18:50:40: New connection from ::1:43882 on port 1883.
+2026-11-03T18:50:40: New client connected from ::1:43882 as auto-9317B924-1CD3-5B69-EE49-A987746AA22F (p4, c1, k60, u'admin').
+2026-11-03T18:50:40: Client auto-9317B924-1CD3-5B69-EE49-A987746AA22F [::1:43882] disconnected.
+2026-11-03T18:50:41: New connection from ::1:60884 on port 1883.
+2026-11-03T18:50:41: New client connected from ::1:60884 as auto-B34CCABA-D819-06C1-F67A-0387722388E3 (p4, c1, k60, u'admin').
+2026-11-03T18:50:41: Client auto-B34CCABA-D819-06C1-F67A-0387722388E3 [::1:60884] disconnected.
+2026-11-03T18:50:44: New connection from ::1:60888 on port 1883.
+2026-11-03T18:50:44: New client connected from ::1:60888 as auto-319B6795-32E4-2110-3B7C-BFC32ED2CE71 (p4, c1, k60, u'admin').
+2026-11-03T18:50:44: Client auto-319B6795-32E4-2110-3B7C-BFC32ED2CE71 [::1:60888] disconnected.
+2026-11-03T18:50:46: New connection from ::1:60894 on port 1883.
+2026-11-03T18:50:46: New client connected from ::1:60894 as auto-5EFE2E05-2153-6390-2206-F7AC6394B938 (p4, c1, k60, u'admin').
+2026-11-03T18:50:46: Client auto-5EFE2E05-2153-6390-2206-F7AC6394B938 [::1:60894] disconnected.
+2026-11-03T18:50:47: New connection from ::1:60900 on port 1883.
+2026-11-03T18:50:47: New client connected from ::1:60900 as auto-8FF52AC0-7D51-E621-E9DE-4A64879E533A (p4, c1, k60, u'admin').
+2026-11-03T18:50:47: Client auto-8FF52AC0-7D51-E621-E9DE-4A64879E533A [::1:60900] disconnected.
+2026-11-03T18:50:50: New connection from ::1:60912 on port 1883.
+2026-11-03T18:50:50: New client connected from ::1:60912 as auto-A8630C91-D82C-7BEF-F33E-0E1A7E1DFC89 (p4, c1, k60, u'admin').
+2026-11-03T18:50:50: Client auto-A8630C91-D82C-7BEF-F33E-0E1A7E1DFC89 [::1:60912] disconnected.
+2026-11-03T18:51:06: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-11-03T18:59:58: Client nodered47aa7b9020d73fa2 [172.18.0.3:57722] disconnected.
+2026-11-03T19:00:27: New connection from 172.18.0.3:50708 on port 1883.
+2026-11-03T19:00:27: New client connected from 172.18.0.3:50708 as nodered1349b385a68c8c75 (p4, c1, k60, u'admin').
+2026-11-03T19:00:30: Client nodered1349b385a68c8c75 [172.18.0.3:50708] disconnected.
+2026-11-03T19:00:30: New connection from 172.18.0.3:50714 on port 1883.
+2026-11-03T19:00:30: New client connected from 172.18.0.3:50714 as nodered4d5511e518fd6f94 (p4, c1, k60, u'admin').
+2026-11-03T19:05:59: Client nodered4d5511e518fd6f94 [172.18.0.3:50714] disconnected.
+2026-11-03T19:05:59: New connection from 172.18.0.3:59244 on port 1883.
+2026-11-03T19:05:59: New client connected from 172.18.0.3:59244 as noderedf413c7e3de9947a4 (p4, c1, k60, u'admin').
+2026-11-03T19:08:53: Client noderedf413c7e3de9947a4 [172.18.0.3:59244] disconnected.
+2026-11-03T19:08:53: New connection from 172.18.0.3:58250 on port 1883.
+2026-11-03T19:08:53: New client connected from 172.18.0.3:58250 as nodered1f093b8819872fc4 (p4, c1, k60, u'admin').
+2026-11-03T19:10:13: Client nodered1f093b8819872fc4 [172.18.0.3:58250] disconnected.
+2026-11-03T19:10:13: New connection from 172.18.0.3:46678 on port 1883.
+2026-11-03T19:10:13: New client connected from 172.18.0.3:46678 as noderedf45362d24c35c26c (p4, c1, k60, u'admin').
+2026-11-03T19:11:37: Client noderedf45362d24c35c26c [172.18.0.3:46678] disconnected.
+2026-11-03T19:11:37: New connection from 172.18.0.3:40322 on port 1883.
+2026-11-03T19:11:37: New client connected from 172.18.0.3:40322 as noderedae3a7cb9b759c621 (p4, c1, k60, u'admin').
+2026-11-03T19:12:09: Client noderedae3a7cb9b759c621 [172.18.0.3:40322] disconnected.
+2026-11-03T19:12:09: New connection from 172.18.0.3:51686 on port 1883.
+2026-11-03T19:12:09: New client connected from 172.18.0.3:51686 as nodered68d6eb72e0905bfa (p4, c1, k60, u'admin').
+2026-11-03T19:12:38: Client nodered68d6eb72e0905bfa [172.18.0.3:51686] disconnected.
+2026-11-03T19:12:38: New connection from 172.18.0.3:37044 on port 1883.
+2026-11-03T19:12:38: New client connected from 172.18.0.3:37044 as nodered20ed2de1590c1867 (p4, c1, k60, u'admin').
+2026-11-03T19:15:36: Client nodered20ed2de1590c1867 [172.18.0.3:37044] disconnected.
+2026-11-03T19:15:36: New connection from 172.18.0.3:43822 on port 1883.
+2026-11-03T19:15:36: New client connected from 172.18.0.3:43822 as noderedf5523803f3ce7e90 (p4, c1, k60, u'admin').
+2026-11-03T19:15:49: Client noderedf5523803f3ce7e90 [172.18.0.3:43822] disconnected.
+2026-11-03T19:15:49: New connection from 172.18.0.3:58362 on port 1883.
+2026-11-03T19:15:49: New client connected from 172.18.0.3:58362 as nodereda11768c27fd9e66d (p4, c1, k60, u'admin').
+2026-11-03T19:15:56: Client nodereda11768c27fd9e66d [172.18.0.3:58362] disconnected.
+2026-11-03T19:15:56: New connection from 172.18.0.3:51536 on port 1883.
+2026-11-03T19:15:56: New client connected from 172.18.0.3:51536 as nodered70651e487003eb57 (p4, c1, k60, u'admin').
+2026-11-03T19:16:05: Client nodered70651e487003eb57 [172.18.0.3:51536] disconnected.
+2026-11-03T19:16:05: New connection from 172.18.0.3:38896 on port 1883.
+2026-11-03T19:16:05: New client connected from 172.18.0.3:38896 as noderedef1e52d70bf3d057 (p4, c1, k60, u'admin').
+2026-11-03T19:16:27: Client noderedef1e52d70bf3d057 [172.18.0.3:38896] disconnected.
+2026-11-03T19:16:27: New connection from 172.18.0.3:44338 on port 1883.
+2026-11-03T19:16:27: New client connected from 172.18.0.3:44338 as nodered7cb467920999ffb4 (p4, c1, k60, u'admin').
+2026-11-03T19:16:47: Client nodered7cb467920999ffb4 [172.18.0.3:44338] disconnected.
+2026-11-03T19:16:47: New connection from 172.18.0.3:33072 on port 1883.
+2026-11-03T19:16:47: New client connected from 172.18.0.3:33072 as noderedbece91bc5a8ef96f (p4, c1, k60, u'admin').
+2026-11-03T19:16:59: Client noderedbece91bc5a8ef96f [172.18.0.3:33072] disconnected.
+2026-11-03T19:16:59: New connection from 172.18.0.3:59456 on port 1883.
+2026-11-03T19:16:59: New client connected from 172.18.0.3:59456 as noderedaacd3314ccf06227 (p4, c1, k60, u'admin').
+2026-11-03T19:19:51: Client noderedaacd3314ccf06227 [172.18.0.3:59456] disconnected.
+2026-11-03T19:19:51: New connection from 172.18.0.3:55448 on port 1883.
+2026-11-03T19:19:51: New client connected from 172.18.0.3:55448 as nodered58482b2cd85a862b (p4, c1, k60, u'admin').
+2026-11-03T19:20:13: Client nodered58482b2cd85a862b [172.18.0.3:55448] disconnected.
+2026-11-03T19:20:13: New connection from 172.18.0.3:54524 on port 1883.
+2026-11-03T19:20:13: New client connected from 172.18.0.3:54524 as nodered902edf7bfca949a8 (p4, c1, k60, u'admin').
+2026-11-03T19:21:07: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-11-03T19:21:41: Client nodered902edf7bfca949a8 [172.18.0.3:54524] disconnected.
+2026-11-03T19:21:41: New connection from 172.18.0.3:40376 on port 1883.
+2026-11-03T19:21:41: New client connected from 172.18.0.3:40376 as nodered01fe38acb36db498 (p4, c1, k60, u'admin').
+2026-11-03T19:31:07: Client nodered01fe38acb36db498 [172.18.0.3:40376] disconnected.
+2026-11-03T19:31:07: mosquitto version 2.1.2 terminating
+2026-11-03T19:31:07: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-11-03T19:42:07: mosquitto version 2.1.2 starting
+2026-11-03T19:42:07: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-11-03T19:42:07: Bridge support available.
+2026-11-03T19:42:07: Persistence support available.
+2026-11-03T19:42:07: TLS support available.
+2026-11-03T19:42:07: TLS-PSK support available.
+2026-11-03T19:42:07: Websockets support available.
+2026-11-03T19:42:07: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-11-03T19:42:07: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-11-03T19:42:07: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-11-03T19:42:07: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-11-03T19:42:07: Opening ipv4 listen socket on port 1883.
+2026-11-03T19:42:07: Opening ipv6 listen socket on port 1883.
+2026-11-03T19:42:07: mosquitto version 2.1.2 running
+2026-11-03T19:42:17: New connection from 172.18.0.3:41386 on port 1883.
+2026-11-03T19:42:17: New client connected from 172.18.0.3:41386 as noderedbebf3fba159990d5 (p4, c1, k60, u'admin').
+2026-11-03T19:45:02: Client noderedbebf3fba159990d5 [172.18.0.3:41386] disconnected.
+2026-11-03T19:45:02: mosquitto version 2.1.2 terminating
+2026-11-03T19:45:02: Saving in-memory database to /mosquitto/data//mosquitto.db.
+2026-11-03T19:45:05: mosquitto version 2.1.2 starting
+2026-11-03T19:45:05: Config loaded from /mosquitto/config/mosquitto.conf.
+2026-11-03T19:45:05: Bridge support available.
+2026-11-03T19:45:05: Persistence support available.
+2026-11-03T19:45:05: TLS support available.
+2026-11-03T19:45:05: TLS-PSK support available.
+2026-11-03T19:45:05: Websockets support available.
+2026-11-03T19:45:05: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+
+2026-11-03T19:45:05: Warning: File /mosquitto/config/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/config/passwd`.
+
+2026-11-03T19:45:05: Warning: File /mosquitto/config/passwd group is not mosquitto. Future versions will refuse to load this file.
+
+2026-11-03T19:45:05: Plugin builtin-security has registered to receive 'basic-auth' events.
+2026-11-03T19:45:05: Opening ipv4 listen socket on port 1883.
+2026-11-03T19:45:05: Opening ipv6 listen socket on port 1883.
+2026-11-03T19:45:05: mosquitto version 2.1.2 running
+2026-11-03T19:45:15: New connection from 172.18.0.3:55608 on port 1883.
+2026-11-03T19:45:15: New client connected from 172.18.0.3:55608 as noderedbaf2f67ce91cd320 (p4, c1, k60, u'admin').
