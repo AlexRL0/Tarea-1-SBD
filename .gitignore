@@ -3,3 +3,7 @@
 node_modules/
 .DS_Store
 mosquitto.log
+.env
+.env.influxdb2-admin-password
+.env.influxdb2-admin-token
+.env.influxdb2-admin-username
