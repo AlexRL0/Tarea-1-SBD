@@ -3,21 +3,27 @@ import json
 import requests
 import paho.mqtt.client as mqtt
 
-# Configuración del Broker MQTT (dentro de Docker, el nombre del servicio es 'mosquitto')
+# Configuración del Broker MQTT y credenciales
 MQTT_HOST = "mosquitto"
 MQTT_PORT = 1883
 MQTT_TOPIC = "almeria/clima"
+MQTT_USER = "admin"
+MQTT_PASS = "$7$1000$uIKjCI7NPdU8Wi6Qj+pdrWeOEvanRxmx9uwngFFUFKny1of5QOkeDjuviGUznm53XIa0Vj4S721iJVub2XqFlw==$+x10/zG9nb0VJ1dzEwjf3IbvsZYFfwMUZj0OEFa/g2Mjoydd1Sala5/5/Z8OihbishtCJfxjD3J6JKb8HXToUg=="
+
 API_URL = "https://api.open-meteo.com/v1/forecast?latitude=36.8381&longitude=-2.4597&current=temperature_2m,relative_humidity_2m,surface_pressure"
 
 def on_connect(client, userdata, flags, rc, properties=None):
     if rc == 0:
-        print("¡Conectado exitosamente al broker MQTT!", flush=True)
+        print("¡Conectado exitosamente al broker MQTT con autenticación!", flush=True)
     else:
         print(f"Error de conexión MQTT, código: {rc}", flush=True)
 
-# Inicializar cliente MQTT (usando la versión 2 para evitar el aviso de obsolescencia)
+# Inicializar cliente MQTT
 mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
 mqtt_client.on_connect = on_connect
+
+# Configurar usuario y contraseña aquí
+mqtt_client.username_pw_set(MQTT_USER, MQTT_PASS)
 
 print(f"Intentando conectar a MQTT en {MQTT_HOST}:{MQTT_PORT}...", flush=True)
 mqtt_client.connect(MQTT_HOST, MQTT_PORT, 60)
@@ -48,9 +54,8 @@ def enviar_clima():
 
 if __name__ == "__main__":
     print("Iniciando script de captura de clima...", flush=True)
-    # Esperar 5 segundos iniciales para asegurar que Mosquitto arranca del todo
     time.sleep(5)
     
     while True:
         enviar_clima()
-        time.sleep(300)  # Espera 5 minutos (300 segundos)
+        time.sleep(300)
