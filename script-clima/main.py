@@ -8,7 +8,7 @@ MQTT_HOST = "mosquitto"
 MQTT_PORT = 1883
 MQTT_TOPIC = "almeria/clima"
 MQTT_USER = "admin"
-MQTT_PASS = "$7$1000$uIKjCI7NPdU8Wi6Qj+pdrWeOEvanRxmx9uwngFFUFKny1of5QOkeDjuviGUznm53XIa0Vj4S721iJVub2XqFlw==$+x10/zG9nb0VJ1dzEwjf3IbvsZYFfwMUZj0OEFa/g2Mjoydd1Sala5/5/Z8OihbishtCJfxjD3J6JKb8HXToUg=="
+MQTT_PASS = "1308"
 
 API_URL = "https://api.open-meteo.com/v1/forecast?latitude=36.8381&longitude=-2.4597&current=temperature_2m,relative_humidity_2m,surface_pressure"
 
