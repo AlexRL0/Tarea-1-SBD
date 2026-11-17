@@ -60,7 +60,14 @@ services:
     - t1-lan
     depends_on:
     - db
-
+  script-clima:
+    build: ./script-clima
+    container_name: script-clima
+    restart: always
+    depends_on:
+      - grafana
+    networks:
+      - t1-lan
 
 secrets:
   influxdb2-admin-username:
