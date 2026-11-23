@@ -61,16 +61,31 @@ Proyecto de captura, procesamiento, almacenamiento y visualización en tiempo re
 ## 4. Procesamiento y Consultas del Dashboard
 
 ### Transformación en Node-RED (`function`)
-Convierte el JSON entrante desde MQTT a *Line Protocol* numérico para InfluxDB:
+Convierte el JSON entrante desde MQTT para InfluxDB:
 
 ```javascript
-const d = msg.payload || {};
+const d = msg.payload;
 
 const temperatura = Number(d.temperature);
 const humedad = Number(d.humidity);
 const presion = Number(d.pressure);
 
-msg.payload = `almeria_clima temperatura=${temperatura},humedad=${humedad},presion=${presion}`;
+if (
+    !Number.isFinite(temperatura) ||
+    !Number.isFinite(humedad) ||
+    !Number.isFinite(presion)
+) {
+    node.error("Datos meteorológicos no válidos", msg);
+    return null;
+}
+
+msg.measurement = "almeria_clima";
+
+msg.payload = {
+    temperatura: temperatura,
+    humedad: humedad,
+    presion: presion
+};
 
 return msg;
 ```
@@ -83,7 +98,8 @@ return msg;
     |> range(start: v.timeRangeStart, stop: v.timeRangeStop)
     |> filter(fn: (r) => r["_measurement"] == "almeria_clima")
     |> filter(fn: (r) => r["_field"] == "temperatura" or r["_field"] == "humedad" or r["_field"] == "presion")
-    |> last()
+    |> aggregateWindow(every: v.windowPeriod, fn: mean, createEmpty: false)
+    |> yield(name: "mean")
   ```
 
 * **b) Gráfica última hora (`Time series`, intervalo fijo `-1h` y *auto-refresh*):**
@@ -130,10 +146,10 @@ return msg;
 
 ## 5. Capturas del Dashboard
 
-*(Sustituye las rutas por las imágenes guardadas en tu carpeta `docs/` o `img/` del repositorio)*
-
 ### Vista general del Dashboard (`Clima-Almeria`)
-![Vista general del Dashboard](./img/dashboard_general.png)
+![Vista general del Dashboard](imagenes/General.png)
 
-### Paneles individuales (Valores actuales, Gráfica 1h y Tendencia 24h)
-![Panel Tendencia 24h](./img/panel_tendencia_24h.png)
+### Paneles individuales (Valores actuales, Última hora y Tendencia 24h)
+![Panel Valores Actuales](imagenes/Actual.png)
+![Panel Última Hora](imagenes/UltimaHora.png)
+![Panel Tendencia 24H](imagenes/Tendencia24h.png)
