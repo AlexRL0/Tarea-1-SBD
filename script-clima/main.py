@@ -58,4 +58,4 @@ if __name__ == "__main__":
     
     while True:
         enviar_clima()
-        time.sleep(100)
+        time.sleep(300)

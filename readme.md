@@ -44,7 +44,7 @@ Proyecto de captura, procesamiento, almacenamiento y visualización en tiempo re
 * `DOCKER_INFLUXDB_INIT_USERNAME`: usuario administrador de InfluxDB
 * `DOCKER_INFLUXDB_INIT_PASSWORD`: contraseña de InfluxDB
 * `DOCKER_INFLUXDB_INIT_ORG`: organización en InfluxDB
-* `DOCKER_INFLUXDB_INIT_BUCKET`: `Almeria`
+* `DOCKER_INFLUXDB_INIT_BUCKET`: `home`
 * `DOCKER_INFLUXDB_INIT_ADMIN_TOKEN`: token de acceso utilizado por Node-RED y Grafana
 * `MQTT_BROKER` / `MQTT_PORT` / `MQTT_TOPIC`: host (`mosquitto` o `localhost`), puerto (`1883`) y tópico donde publica el script de Python
 
@@ -52,9 +52,9 @@ Proyecto de captura, procesamiento, almacenamiento y visualización en tiempo re
 * **Bucket:** `Almeria`
 * **Measurement (`_measurement`):** `almeria_clima`
 * **Fields (`_field`) — tipo numérico (`float`):**
-  * `temperatura`: temperatura ambiente ($^\circ\text{C}$)
-  * `humedad`: humedad relativa ($\%$)
-  * `presion`: presión atmosférica ($\text{hPa}$)
+  * `temperatura`: temperatura ambiente (ºC)
+  * `humedad`: humedad relativa
+  * `presion`: presión atmosférica
 
 ---
 
