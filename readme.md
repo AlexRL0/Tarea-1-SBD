@@ -15,7 +15,11 @@ Proyecto de captura, procesamiento, almacenamiento y visualización en tiempo re
    ```bash
    docker compose ps
    ```
-4. **Detener el stack (cuando sea necesario):**
+4. **Comprobar que el script esté funcionando:**
+   ```bash
+   docker logs -f nombre_del_script
+   ```
+5. **Detener el stack (cuando sea necesario):**
    ```bash
    docker compose down
    ```
