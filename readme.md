@@ -52,9 +52,9 @@ Proyecto de captura, procesamiento, almacenamiento y visualización en tiempo re
 | `TIMEZONE` | `Europe/Madrid` | Zona horaria configurada para Node-RED. |
 
 #### Variables y campos de telemetría (InfluxDB / Flux)
-- **Bucket de trabajo en consultas:** `Almeria` (además del bucket inicial `home` definido en `.env`)[cite: 9, 11].
-- **Measurement (`_measurement`):** `almeria_clima`[cite: 9].
-- **Fields (`_field`):** `temperatura`, `humedad` y `presion` (procesados como valores numéricos desde Node-RED / script de publicación)[cite: 9].
+- **Bucket de trabajo en consultas:** `Almeria` (además del bucket inicial `home` definido en `.env`).
+- **Measurement (`_measurement`):** `almeria_clima`.
+- **Fields (`_field`):** `temperatura`, `humedad` y `presion` (procesados como valores numéricos desde Node-RED / script de publicación).
 
 ---
 
