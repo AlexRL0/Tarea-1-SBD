@@ -22,7 +22,7 @@ def on_connect(client, userdata, flags, rc, properties=None):
 mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
 mqtt_client.on_connect = on_connect
 
-# Configurar usuario y contraseña aquí
+# Configurar usuario y contraseña para la autenticación
 mqtt_client.username_pw_set(MQTT_USER, MQTT_PASS)
 
 print(f"Intentando conectar a MQTT en {MQTT_HOST}:{MQTT_PORT}...", flush=True)
