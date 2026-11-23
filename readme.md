@@ -7,19 +7,15 @@ Proyecto de captura, procesamiento, almacenamiento y visualización en tiempo re
 ## 1. Cómo levantar el stack
 
 1. **Clonar o situarse en la carpeta del proyecto** donde se encuentran el `docker-compose.yml` y el script de Python.
-2. **Levantar los contenedores en segundo plano:**
+2. **Levantar los contenedores en segundo plano y el script (si esta implementado como servicio en el Compose):**
    ```bash
-   docker compose up -d
+   docker compose up -d --build
    ```
 3. **Verificar que todos los servicios están activos:**
    ```bash
    docker compose ps
    ```
-4. **Ejecutar el productor de datos en Python** (si no está ya como servicio en el Compose):
-   ```bash
-   python3 productor_clima.py
-   ```
-5. **Detener el stack (cuando sea necesario):**
+4. **Detener el stack (cuando sea necesario):**
    ```bash
    docker compose down
    ```
