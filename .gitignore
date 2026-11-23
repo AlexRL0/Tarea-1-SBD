@@ -1,6 +1,7 @@
 **/data/
 **/core/
-../grafana/data/grafana.db
+grafana/data/grafana.db
+**/grafana.db
 node_modules/
 .DS_Store
 mosquitto.log
