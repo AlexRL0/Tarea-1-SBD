@@ -1,0 +1,123 @@
+[
+    {
+        "id": "5ad06bf6d63a5881",
+        "type": "tab",
+        "label": "Flujo 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "bb7787f0ad85de9a",
+        "type": "mqtt in",
+        "z": "5ad06bf6d63a5881",
+        "name": "",
+        "topic": "almeria/clima",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "dc7e1d76ad7d050a",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 210,
+        "y": 260,
+        "wires": [
+            [
+                "2591cef4e4ce56f1"
+            ]
+        ]
+    },
+    {
+        "id": "2591cef4e4ce56f1",
+        "type": "function",
+        "z": "5ad06bf6d63a5881",
+        "name": "función clima",
+        "func": "const d = msg.payload;\n\nconst temperatura = Number(d.temperature);\nconst humedad = Number(d.humidity);\nconst presion = Number(d.pressure);\n\nif (\n    !Number.isFinite(temperatura) ||\n    !Number.isFinite(humedad) ||\n    !Number.isFinite(presion)\n) {\n    node.error(\"Datos meteorológicos no válidos\", msg);\n    return null;\n}\n\nmsg.measurement = \"almeria_clima\";\n\nmsg.payload = {\n    temperatura: temperatura,\n    humedad: humedad,\n    presion: presion\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 260,
+        "wires": [
+            [
+                "329512faa26849ab"
+            ]
+        ]
+    },
+    {
+        "id": "329512faa26849ab",
+        "type": "influxdb out",
+        "z": "5ad06bf6d63a5881",
+        "influxdb": "41b4767625f2b77d",
+        "name": "InfluxDB",
+        "measurement": "almeria_clima",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "sbd",
+        "bucket": "Almeria",
+        "x": 700,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "dc7e1d76ad7d050a",
+        "type": "mqtt-broker",
+        "name": "Mosquito Tarea 1",
+        "broker": "mosquitto",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "node/inicio",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "Inicio Node-RED",
+        "birthMsg": {},
+        "closeTopic": "node/fin",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "Finalizo Node-RED",
+        "closeMsg": {},
+        "willTopic": "node/error",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "Error en Node-RED",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "41b4767625f2b77d",
+        "type": "influxdb",
+        "hostname": "127.0.0.1",
+        "port": 8086,
+        "protocol": "http",
+        "database": "database",
+        "name": "Mi InfluxDB",
+        "usetls": false,
+        "tls": "",
+        "influxdbVersion": "2.0",
+        "url": "http://db:8086",
+        "timeout": 10,
+        "rejectUnauthorized": true
+    },
+    {
+        "id": "2ca02450bfaf40bb",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-contrib-influxdb": "0.7.0"
+        }
+    }
+]
