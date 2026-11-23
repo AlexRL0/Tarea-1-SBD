@@ -37,19 +37,19 @@ Proyecto de captura, procesamiento, almacenamiento y visualización en tiempo re
 
 | Variable | Valor por defecto | Descripción |
 | :--- | :--- | :--- |
-| `MOSQUITTO_PORT` | `1883` | Puerto expuesto para el broker MQTT Eclipse Mosquitto[cite: 11]. |
-| `NODERED_PORT` | `1880` | Puerto expuesto para el editor/interfaz web de Node-RED[cite: 11]. |
-| `INFLUXDB_PORT` | `8086` | Puerto expuesto para la interfaz y API HTTP de InfluxDB v2[cite: 11]. |
-| `GRAFANA_PORT` | `3000` | Puerto expuesto para la interfaz web de Grafana[cite: 11]. |
-| `DOCKER_INFLUXDB_INIT_MODE` | `setup` | Modo de inicialización automática de InfluxDB en el primer arranque[cite: 11]. |
-| `DOCKER_INFLUXDB_INIT_USERNAME_FILE` | `/run/secrets/influxdb2-admin-username` | Ruta del secreto con el usuario administrador inicial de InfluxDB[cite: 11]. |
-| `DOCKER_INFLUXDB_INIT_PASSWORD_FILE` | `/run/secrets/influxdb2-admin-password` | Ruta del secreto con la contraseña administradora inicial de InfluxDB[cite: 11]. |
-| `DOCKER_INFLUXDB_INIT_ADMIN_TOKEN_FILE` | `/run/secrets/influxdb2-admin-token` | Ruta del secreto con el token de administración de InfluxDB[cite: 11]. |
-| `DOCKER_INFLUXDB_INIT_ORG` | `docs` | Organización inicial configurada en InfluxDB[cite: 11]. |
-| `DOCKER_INFLUXDB_INIT_BUCKET` | `home` | Bucket inicial creado durante el arranque de InfluxDB[cite: 11]. |
-| `GF_SERVER_ROOT_URL` | `http://grafana/` | URL base configurada para el servidor de Grafana[cite: 11]. |
-| `GF_PLUGINS_PREINSTALL` | `grafana-clock-panel` | Plugin preinstalado al iniciar el contenedor de Grafana[cite: 11]. |
-| `TIMEZONE` | `Europe/Madrid` | Zona horaria configurada para Node-RED[cite: 11]. |
+| `MOSQUITTO_PORT` | `1883` | Puerto expuesto para el broker MQTT Eclipse Mosquitto. |
+| `NODERED_PORT` | `1880` | Puerto expuesto para el editor/interfaz web de Node-RED. |
+| `INFLUXDB_PORT` | `8086` | Puerto expuesto para la interfaz y API HTTP de InfluxDB v2. |
+| `GRAFANA_PORT` | `3000` | Puerto expuesto para la interfaz web de Grafana. |
+| `DOCKER_INFLUXDB_INIT_MODE` | `setup` | Modo de inicialización automática de InfluxDB en el primer arranque. |
+| `DOCKER_INFLUXDB_INIT_USERNAME_FILE` | `/run/secrets/influxdb2-admin-username` | Ruta del secreto con el usuario administrador inicial de InfluxDB. |
+| `DOCKER_INFLUXDB_INIT_PASSWORD_FILE` | `/run/secrets/influxdb2-admin-password` | Ruta del secreto con la contraseña administradora inicial de InfluxDB. |
+| `DOCKER_INFLUXDB_INIT_ADMIN_TOKEN_FILE` | `/run/secrets/influxdb2-admin-token` | Ruta del secreto con el token de administración de InfluxDB. |
+| `DOCKER_INFLUXDB_INIT_ORG` | `docs` | Organización inicial configurada en InfluxDB. |
+| `DOCKER_INFLUXDB_INIT_BUCKET` | `home` | Bucket inicial creado durante el arranque de InfluxDB. |
+| `GF_SERVER_ROOT_URL` | `http://grafana/` | URL base configurada para el servidor de Grafana. |
+| `GF_PLUGINS_PREINSTALL` | `grafana-clock-panel` | Plugin preinstalado al iniciar el contenedor de Grafana. |
+| `TIMEZONE` | `Europe/Madrid` | Zona horaria configurada para Node-RED. |
 
 #### Variables y campos de telemetría (InfluxDB / Flux)
 - **Bucket de trabajo en consultas:** `Almeria` (además del bucket inicial `home` definido en `.env`)[cite: 9, 11].
