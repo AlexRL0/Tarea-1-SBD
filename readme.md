@@ -116,36 +116,59 @@ return msg;
     |> yield(name: "mean")
   ```
 
-* **c) Tendencia 24 h (`Stat` con indicador $\uparrow$/$\downarrow$, porcentaje a 2 decimales y umbral rojo $< 0$):**
+* **c) Tendencia 24 h (`Stat` con indicador $\uparrow$/$\downarrow$, unidad por variable, redondeo a 2 decimales y umbral rojo $< 0$):**
   ```flux
   import "math"
 
   from(bucket: "Almeria")
     |> range(start: -24h, stop: now())
-    |> filter(fn: (r) => r["_measurement"] == "almeria_clima" and (r["_field"] == "temperatura" or r["_field"] == "humedad" or r["_field"] == "presion"))
+    |> filter(fn: (r) =>
+      r["_measurement"] == "almeria_clima" and
+      (
+        r["_field"] == "temperatura" or
+        r["_field"] == "humedad" or
+        r["_field"] == "presion"
+      )
+    )
     |> keep(columns: ["_time", "_field", "_value"])
     |> group(columns: ["_field"])
     |> sort(columns: ["_time"])
     |> reduce(
-        fn: (r, accumulator) => ({
-          primero: if accumulator.count == 0 then r._value else accumulator.primero,
-          ultimo: r._value,
-          count: accumulator.count + 1
-        }),
-        identity: {primero: 0.0, ultimo: 0.0, count: 0}
-      )
+      fn: (r, accumulator) => ({
+        primero: if accumulator.count == 0 then r._value else accumulator.primero,
+        ultimo: r._value,
+        count: accumulator.count + 1,
+        campo: r._field
+      }),
+      identity: {
+        primero: 0.0,
+        ultimo: 0.0,
+        count: 0,
+        campo: ""
+      }
+    )
     |> map(fn: (r) => {
-        raw_pct = if r.primero != 0.0 then (r.ultimo - r.primero) / r.primero * 100.0 else 0.0
-        pct = math.round(x: raw_pct * 100.0) / 100.0
-        flecha = if pct >= 0.0 then "↑" else "↓"
-        return {
-          _time: now(),
-          _value: pct,
-          tendencia: r._field + ": " + flecha + " " + string(v: pct) + "%"
-        }
-      })
-  ```
+      raw_pct = if r.primero != 0.0 then
+        (r.ultimo - r.primero) / r.primero * 100.0
+      else
+        0.0
 
+      pct = math.round(x: raw_pct * 100.0) / 100.0
+
+      flecha = if pct >= 0.0 then "↑" else "↓"
+
+      unidad =
+        if r.campo == "humedad" then " %H"
+        else if r.campo == "presion" then " hPa"
+        else " ºC"
+
+      return {
+        _time: now(),
+        _field: r.campo,
+        _value: pct,
+        tendencia: r.campo + ": " + flecha + " " + string(v: pct) + unidad
+      }
+    })
 ---
 
 ## 5. Capturas del Dashboard
